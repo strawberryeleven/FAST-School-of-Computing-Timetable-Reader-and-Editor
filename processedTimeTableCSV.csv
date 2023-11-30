@@ -1,0 +1,912 @@
+title,code,section,instructor,credit_hours,program,target_department,parent_department,type,repeat,room,day,start_time,end_time
+Data Structures,CS2001,BDS-3B,Ms. Hira Butt,3.0,BS,DS,CS,Core,False,Seminar Hall,Monday,08:30,09:50
+Data Structures,CS2001,BDS-3A,Ms. Hira Butt,3.0,BS,DS,CS,Core,False,Seminar Hall,Monday,10:00,11:20
+Technical and Business Writing,SS2007,BDS-5D,Ms.Uzma Safdar,3.0,BS,DS,HSS,Core,False,Seminar Hall,Monday,11:30,12:50
+Discrete Structures,CS1005,BSR-3B,,3.0,BS,R,CS,Core,False,Seminar Hall,Monday,13:00,14:20
+Linear Algebra,MT1004,BCS-3C,Dr. Akhlaq Ahmad Bhatti,3.0,BS,CS,HSS,Core,False,Seminar Hall,Monday,14:30,15:50
+Linear Algebra,MT1004,BCS-3E,Dr. Muhammad Nasir,3.0,BS,CS,HSS,Core,False,Seminar Hall,Monday,16:00,17:20
+Professional Practices,CS4001,BDS-7B,,3.0,BS,DS,CS,Core,False,Seminar Hall,Monday,17:30,18:50
+Fundamental of Computer Vision,CS4059,BCS-7B,Dr. Asif Gilani,3.0,BS,CS,CS,Elective,False,CS-2,Monday,08:30,09:50
+Data Structures,CS2001,BCS-3B,Dr. Zareen Alamgir,3.0,BS,CS,CS,Core,False,CS-2,Monday,10:00,11:20
+Data Structures,CS2001,BCS-3A,Dr. Zareen Alamgir,3.0,BS,CS,CS,Core,False,CS-2,Monday,11:30,12:50
+Software Design and Analysis,CS3004,BCS-5K,Ms. Mehroze Khan,3.0,BS,CS,CS,Core,False,CS-2,Monday,13:00,14:20
+Block chain and Cryptocurrency,CS4049,BDS-7A,Ms. Tayyaba Bukhari,3.0,BS,DS,CS,Elective,False,CS-2,Monday,14:30,15:50
+Block chain and Cryptocurrency,CS4049,BDS-7B,Ms. Tayyaba Bukhari,3.0,BS,DS,CS,Elective,False,CS-2,Monday,16:00,17:20
+Software Project Management,CS5015,MSP-1A,Dr. Ali Afzal Malik,3.0,MS,SPM,CS,Core,False,CS-2,Monday,17:30,20:20
+Theory of Automata,CS3005,BCS-5A,Ms. Sobia Tariq,3.0,BS,CS,CS,Core,False,CS-3,Monday,08:30,09:50
+Theory of Automata,CS3005,BCS-5B,Ms. Sobia Tariq,3.0,BS,CS,CS,Core,False,CS-3,Monday,10:00,11:20
+Database Systems,CS2005,BCS-5A,Mr. M. Ishaq Raza,3.0,BS,CS,CS,Core,True,CS-3,Monday,11:30,12:50
+Theory of Automata,CS3005,BCS-5E,Mr. Fraz Yousaf,3.0,BS,CS,CS,Core,False,CS-3,Monday,13:00,14:20
+Database Systems,CS2005,BCS-5B,Mr. M. Ishaq Raza,3.0,BS,CS,CS,Core,True,CS-3,Monday,14:30,15:50
+Compiler Construction,CS4031,BCS-7A,Dr. Faisal Aslam,3.0,BS,CS,CS,Elective,False,CS-3,Monday,16:00,17:20
+Compiler Construction,CS4031,BCS-7B,Dr. Faisal Aslam,3.0,BS,CS,CS,Elective,False,CS-3,Monday,17:30,18:50
+Comp. Organization and Assembly Lang,EE2003,BCS-3B,Ms. Samin Iftikhar,3.0,BS,CS,CS,Core,False,CS-4,Monday,08:30,09:50
+Comp. Organization and Assembly Lang,EE2003,BCS-3D,Ms. Aleena Ahmad,3.0,BS,CS,CS,Core,False,CS-4,Monday,10:00,11:20
+Comp. Organization and Assembly Lang,EE2003,BCS-3E,Ms. Aleena Ahmad,3.0,BS,CS,CS,Core,False,CS-4,Monday,11:30,12:50
+Comp. Organization and Assembly Lang,EE2003,BCS-3C,Ms. Samin Iftikhar,3.0,BS,CS,CS,Core,False,CS-4,Monday,13:00,14:20
+Comp. Organization and Assembly Lang,EE2003,BCS-3F,Ms. Aleena Ahmad,3.0,BS,CS,CS,Core,False,CS-4,Monday,14:30,15:50
+Programming Fundamentals,CS1002,BDS-1B,Dr. Mubasher Baig,3.0,BS,DS,CS,Core,False,CS-4,Monday,16:00,17:20
+Technical and Business Writing,SS2007,BSE-5A,,3.0,BS,SE,HSS,Core,False,CS-4,Monday,17:30,18:50
+Technical and Business Writing,SS2007,BDS-5A,Ms. Nayyab Mufti,3.0,BS,DS,HSS,Core,False,CS-5,Monday,08:30,09:50
+Information Security,CS3002,BCS-7C,Dr. Rana Asif Rehman,3.0,BS,CS,CS,Core,False,CS-5,Monday,10:00,11:20
+Programming Fundamentals,CS1002,BCS-1C,Mr. Uzair Naqvi,3.0,BS,CS,CS,Core,False,CS-5,Monday,11:30,12:50
+Artificial Intelligence,AI2002,BCS-7A,Dr. Hajra Waheed,3.0,BS,CS,CS,Core,True,CS-5,Monday,13:00,14:20
+Software Design and Analysis,CS3004,BCS-5L,Ms. Mehroze Khan,3.0,BS,CS,CS,Core,False,CS-5,Monday,14:30,15:50
+Design and Analysis of Algorithms,CS2009,BCS-5B,,3.0,BS,CS,CS,Core,True,CS-5,Monday,16:00,17:20
+Data Warehousing and Business Intelligence,DS3003,BDS-5C,,3.0,BS,DS,DS,Core,False,CS-5,Monday,17:30,18:50
+Medical Image Processing,CS6007,MCS-1A,Dr. Asma Naseer,3.0,MS,CS,CS,Elective,False,CS-6,Monday,08:30,09:50
+Theory of Programming Languages,CS5006,MCS-1A,Dr. Farooq Ahmad,3.0,MS,CS,CS,Core,False,CS-6,Monday,10:00,12:50
+Software Design and Analysis,CS3004,BCS-5H,Mr. Aamir Raheem,3.0,BS,CS,CS,Core,False,CS-6,Monday,13:00,14:20
+Linear Algebra,MT1004,BCS-3H,Ms. Sarah Asghar,3.0,BS,CS,HSS,Core,False,CS-6,Monday,14:30,15:50
+Numerical Computing,CS2008,BCS-5E,Ms. Iqra Yaqoot,3.0,BS,CS,CS,Core,False,CS-6,Monday,16:00,17:20
+Object Oriented Programming,CS1004,BSR-3A,,3.0,BS,R,CS,Core,True,CS-6,Monday,17:30,18:50
+Statistical and Mathematical Methods for Data Science,DS5003,MDS-1A,Dr. Mubasher Baig,3.0,MS,DS,DS,Core,False,CS-7,Monday,08:30,11:20
+Applied Artificial Intelligence,AI4007,BSE-7A,Dr. Kashif Zafar,3.0,BS,SE,CS,Core,False,CS-7,Monday,11:30,12:50
+Programming Fundamentals,CS1002,BSE-1C,Ms. Anosha Khan,3.0,BS,SE,CS,Core,False,CS-7,Monday,13:00,14:20
+Programming Fundamentals,CS1002,BSE-1B,Ms. Anosha Khan,3.0,BS,SE,CS,Core,False,CS-7,Monday,14:30,15:50
+Calculus and Analytical Geometry,MT1003,BDS-1C,VF,3.0,BS,DS,HSS,Core,False,CS-7,Monday,16:00,17:20
+Calculus and Analytical Geometry,MT1003,BCS-1J,Ms. Mahnoor Badar,3.0,BS,CS,HSS,Core,False,CS-9,Monday,08:30,09:50
+Comp. Organization and Assembly Lang,EE2003,BDS-3B,Ms. Sana Fatima,3.0,BS,DS,CS,Core,False,CS-9,Monday,10:00,11:20
+Comp. Organization and Assembly Lang,EE2003,BDS-3A,Ms. Sana Fatima,3.0,BS,DS,CS,Core,False,CS-9,Monday,11:30,12:50
+Comp. Organization and Assembly Lang.,EE2003,BSR-3A,Ms. Sana Fatima,3.0,BS,R,CS,Core,False,CS-9,Monday,13:00,14:20
+Software Requirements Engineering,SE2001,BSE-3B,Dr. Zeeshan Ali Rana,3.0,BS,SE,CS,Core,False,CS-9,Monday,14:30,15:50
+Discrete Structures,CS1005,BCS-3H,Dr. Misbah Irshad,3.0,BS,CS,CS,Core,False,CS-9,Monday,16:00,17:20
+Computer Networks,CS3001,BCS-5H,Dr. Zeeshan Ali Khan,3.0,BS,CS,CS,Core,False,CS-10,Monday,08:30,09:50
+Data Structures,CS2001,BCS-3C,Dr. Saira Karim,3.0,BS,CS,CS,Core,False,CS-10,Monday,10:00,11:20
+Data Structures,CS2001,BCS-3D,Dr. Saira Karim,3.0,BS,CS,CS,Core,False,CS-10,Monday,11:30,12:50
+Data Structures,CS2001,BSE-3C,Mr. Uzair Naqvi,3.0,BS,SE,CS,Core,False,CS-10,Monday,13:00,14:20
+Bioinformatics,CS4054,BCS-9A,Dr. Hammad Naveed,3.0,BS,CS,CS,Elective,True,CS-10,Monday,14:30,15:50
+Numerical Computing,CS2008,BCS-5J,Dr. Nazish Iftikhar,3.0,BS,CS,CS,Core,False,CS-10,Monday,16:00,17:20
+Computer Networks,CS3001,BSR-5A,Dr. Muhammad Irteza,3.0,BS,R,CS,Core,False,CS-11,Monday,08:30,09:50
+Design and Analysis of Algorithms,CS2009,BSR-5A,Mr. Usama Hassan,3.0,BS,R,CS,Core,True,CS-11,Monday,10:00,11:20
+Design and Analysis of Algorithms,CS2009,BDS-5C,Mr. Usama Hassan,3.0,BS,DS,CS,Core,False,CS-11,Monday,11:30,12:50
+Programming Fundamentals,CS1002,BSE-1A,Mr. Raziuddin,3.0,BS,SE,CS,Core,False,CS-11,Monday,13:00,14:20
+Information Security,CS3002,BCS-7A,Dr. Haroon Mahmood,3.0,BS,CS,CS,Core,False,CS-11,Monday,14:30,15:50
+Probability and Statistics,MT2005,BCS-5A,,3.0,BS,CS,HSS,Core,True,CS-11,Monday,16:00,17:20
+Software Requirements Engineering,SE2001,BSE-3A,Dr. Zeeshan Ali Rana,3.0,BS,SE,CS,Core,False,CS-11,Monday,17:30,18:50
+Technical and Business Writing,SS2007,BDS-5B,Ms. Naima Chauhdary,3.0,BS,DS,HSS,Core,False,CS-15,Monday,08:30,09:50
+Programming Fundamentals,CS1002,BCS-1J,Mr. Saifullah Tanvir,3.0,BS,CS,CS,Core,False,CS-15,Monday,10:00,11:20
+Computer Networks,CS3001,BCS-5B,Mr. Danyal Farhat,3.0,BS,CS,CS,Core,False,CS-15,Monday,11:30,12:50
+Data Analysis and Visualization,DS3001,BDS-5D,Umme Ammara,3.0,BS,DS,DS,Core,False,CS-15,Monday,13:00,14:20
+Linear Algebra,MT1004,BCS-3G,Dr. Muhammad Nasir,3.0,BS,CS,HSS,Core,False,CS-15,Monday,14:30,15:50
+Linear Algebra,MT1004,BCS-3J,Ms. Sarah Asghar,3.0,BS,CS,HSS,Core,False,CS-15,Monday,16:00,17:20
+Software Construction Development,SE3001,BSE-5B,,3.0,BS,SE,SE,Core,False,CS-15,Monday,17:30,18:50
+Technical and Business Writing,SS2007,BCS-5G,Ms.Irum Zahoor,3.0,BS,CS,HSS,Core,False,CS-16,Monday,08:30,09:50
+Programming Fundamentals,CS1002,BCS-1K,Ms. Maham Naeem,3.0,BS,CS,CS,Core,False,CS-16,Monday,10:00,11:20
+Fundamental of Computer Vision,CS4059,BCS-7A,Dr. Asif Gilani,3.0,BS,CS,CS,Elective,False,CS-16,Monday,11:30,12:50
+Applied Physics,NS1001,BCS-1F,Ms. Mehwish Qutab,3.0,BS,CS,NS,Core,False,CS-16,Monday,13:00,14:20
+Functional English,SS1012,BCS-1B,Dr. Zahida Mansoor,2.0,BS,CS,HSS,Core,False,CS-16,Monday,14:30,16:20
+Professional Practices,CS4001,BDS-7A,Ms. Samman Ashraf,3.0,BS,DS,CS,Core,False,CS-16,Monday,17:30,18:50
+Operating Systems,CS2006,BCS-5C,Ms. Namra Absar,3.0,BS,CS,CS,Core,True,Lib,Monday,08:30,09:50
+Object Oriented Programming,CS1004,BCS-3B,Ms. Hina Iqbal,3.0,BS,CS,CS,Core,True,Lib,Monday,10:00,11:20
+Object Oriented Programming,CS1004,BCS-3A,Ms. Hina Iqbal,3.0,BS,CS,CS,Core,True,Lib,Monday,11:30,12:50
+Theory of Automata,CS3005,BCS-5L,Dr. Tahir Ejaz,3.0,BS,CS,CS,Core,False,Lib,Monday,13:00,14:20
+Calculus and Analytical Geometry,MT1003,BDS-1B,VF,3.0,BS,DS,HSS,Core,False,Lib,Monday,14:30,15:50
+Professional Practices,CS4001,BCS-7D,Dr. Amjad Hussain,3.0,BS,CS,CS,Core,False,Lib,Monday,16:00,17:20
+Professional Practices,CS4001,BCS-7C,Dr. Amjad Hussain,3.0,BS,CS,CS,Core,False,Lib,Monday,17:30,18:50
+Calculus and Analytical Geometry,MT1003,BCS-1A,Mr. Muhammad Saleem Chishti,3.0,BS,CS,HSS,Core,False,E&M-1,Monday,08:30,09:50
+Numerical Computing,CS2008,BCS-5C,Dr. Syed Tauseef Saeed,3.0,BS,CS,CS,Core,False,E&M-1,Monday,10:00,11:20
+Computer Networks,CS3001,BCS-5E,Dr. Arshad Ali,3.0,BS,CS,CS,Core,False,E&M-1,Monday,11:30,12:50
+Applied Physics,NS1001,BCS-1G,Ms. Hufsa Attique,3.0,BS,CS,NS,Core,False,E&M-1,Monday,13:00,14:20
+Calculus and Analytical Geometry,MT1003,BCS-1C,Mr. Muhammad Rizwan,3.0,BS,CS,HSS,Core,False,E&M-1,Monday,14:30,15:50
+Calculus and Analytical Geometry,MT1003,BCS-1D,Mr. Muhammad Rizwan,3.0,BS,CS,HSS,Core,False,E&M-1,Monday,16:00,17:20
+Calculus and Analytical Geometry,MT1003,BCS-1E,VF,3.0,BS,CS,HSS,Core,False,E&M-2,Monday,08:30,09:50
+Data Analysis and Visualization,DS3001,BDS-5A,Umme Ammara,3.0,BS,DS,DS,Core,False,E&M-2,Monday,10:00,11:20
+Computer Networks,CS3001,BCS-5L,Mr. Ahmad Raza,3.0,BS,CS,CS,Core,False,E&M-2,Monday,11:30,12:50
+Applied Physics,NS1001,BCS-1J,Mr. Faizan Saleem,3.0,BS,CS,NS,Core,False,E&M-2,Monday,13:00,14:20
+Operations Research,MT4031,BSE-5C,Mr. Amjad Ali,3.0,BS,SE,HSS,Supporting Elective,False,E&M-2,Monday,14:30,15:50
+Theory of Automata,CS3005,BCS-5H,Mr. Hamadul Qudus,3.0,BS,CS,CS,Core,False,E&M-2,Monday,16:00,17:20
+Calculus and Analytical Geometry,MT1003,BCS-1G,Mr. Tasaduque Hussain Shah,3.0,BS,CS,HSS,Core,False,E&M-3,Monday,08:30,09:50
+Functional English,SS1012,BCS-1G,Ms. Fasiha Sherwany,2.0,BS,CS,HSS,Core,False,E&M-3,Monday,10:00,11:50
+Information Security,CS3002,BCS-7E,Dr. Ammar Haider,3.0,BS,CS,CS,Core,False,E&M-3,Monday,13:00,14:20
+Numerical Computing,CS2008,BCS-5K,Dr. Nazish Iftikhar,3.0,BS,CS,CS,Core,False,E&M-3,Monday,14:30,15:50
+Numerical Computing,CS2008,BCS-5M,Dr. Iffat Fayyaz,3.0,BS,CS,CS,Core,False,E&M-4,Monday,11:30,12:50
+Applied Physics,NS1001,BCS-1B,Mr. Shehroz Rafi,3.0,BS,CS,NS,Core,False,E&M-4,Monday,13:00,14:20
+Applied Physics,NS1001,BCS-1A,Mr. Shehroz Rafi,3.0,BS,CS,NS,Core,False,E&M-4,Monday,14:30,15:50
+Applied Physics,NS1001,BSE-1B,Mr. Usman Sajid,3.0,BS,SE,NS,Core,False,E&M-4,Monday,16:00,17:20
+Applied Physics,NS1001,BSE-1A,Mr. Usman Sajid,3.0,BS,SE,NS,Core,False,E&M-4,Monday,17:30,18:50
+Discrete Structures,CS1005,BCS-3C,Dr. Saeeda Zia,3.0,BS,CS,CS,Core,False,E&M-5,Monday,08:30,09:50
+Discrete Structures,CS1005,BCS-3B,Dr. Saeeda Zia,3.0,BS,CS,CS,Core,False,E&M-5,Monday,11:30,12:50
+Applied Physics,NS1001,BDS-1C,Ms. Arfa Hassan,3.0,BS,DS,NS,Core,False,E&M-5,Monday,13:00,14:20
+Probability and Statistics,MT2005,BSE-3C,Mr. Qasim Noor Hussain,3.0,BS,SE,HSS,Core,False,E&M-5,Monday,14:30,15:50
+International Relations,SS2039,BCS-3A,Dr.Tahir Rashid,3.0,BS,CS,HSS,Elective,False,E&M-5,Monday,16:00,17:20
+Discrete Structures,CS1005,BCS-3G,Dr. Uzma Bashir,3.0,BS,CS,CS,Core,False,E&M-11,Monday,08:30,09:50
+Comp. Organization and Assembly Lang,EE2003,BCS-3J,Mr. Salman Shoaib,3.0,BS,CS,CS,Core,False,E&M-11,Monday,10:00,11:20
+Applied Physics,NS1001,BCS-1E,Ms. Mehwish Qutab,3.0,BS,CS,NS,Core,False,E&M-11,Monday,11:30,12:50
+Applied Physics,NS1001,BDS-1A,Ms. Nida Raees,3.0,BS,DS,NS,Core,False,E&M-11,Monday,13:00,14:20
+Applied Physics,NS1001,BCS-1H,Ms. Hufsa Attique,3.0,BS,CS,NS,Core,False,E&M-11,Monday,14:30,15:50
+Probability and Statistics,MT2005,BDS-3C,Ms. Kanwal Saleem,3.0,BS,DS,HSS,Core,False,E&M-11,Monday,16:00,17:20
+Object Oriented Programming,CS1004,BDS-3A,Ms. Mamoona Majid,3.0,BS,DS,CS,Core,True,CE-1,Monday,08:30,09:50
+Professional Practices,CS4001,BCS-7A,Mr. Waqas Manzoor,3.0,BS,CS,CS,Core,False,CE-1,Monday,10:00,11:20
+Operations Research,MT4031,BSE-5B,Dr. Hakeem Ur Rehman,3.0,BS,SE,HSS,Supporting Elective,False,CE-1,Monday,11:30,12:50
+Applied Physics,NS1001,BDS-1B,Ms. Iqra,3.0,BS,DS,NS,Core,False,CE-1,Monday,13:00,14:20
+Functional English,SS1012,BCS-1F,Dr. Wasim Hasan,2.0,BS,CS,HSS,Core,False,CE-1,Monday,14:30,16:20
+Introduction to Public Policy,SS4003,BSE-3A,,3.0,BS,SE,SS,Elective,False,CE-2,Monday,08:30,09:50
+Discrete Structures,CS1005,BCS-3F,Dr. Uzma Bashir,3.0,BS,CS,CS,Core,False,CE-2,Monday,10:00,11:20
+Comp. Organization and Assembly Lang,EE2003,BCS-3G,Ms. Atira Anum,3.0,BS,CS,CS,Core,False,CE-2,Monday,11:30,12:50
+Comp. Organization and Assembly Lang,EE2003,BCS-3H,Ms. Atira Anum,3.0,BS,CS,CS,Core,False,CE-2,Monday,13:00,14:20
+Information Security,CS3002,BCS-7D,Dr. Ammar Haider,3.0,BS,CS,CS,Core,False,CE-2,Monday,14:30,15:50
+Linear Algebra,MT1004,BSR-3A,VF,3.0,BS,R,HSS,Core,False,CE-2,Monday,16:00,17:20
+Software Quality Engineering,SE3002,BSE-5C,,3.0,BS,SE,SE,Core,False,CE-3,Monday,08:30,09:50
+Software Design and Analysis,CS3004,BSR-5A,Mr. Zeeshan Nazar,3.0,BS,R,CS,Core,False,CE-3,Monday,10:00,11:20
+Data Structures,CS2001,BCS-3F,Ms. Arooj Khalil,3.0,BS,CS,CS,Core,False,CE-3,Monday,11:30,12:50
+Data Structures,CS2001,BCS-3E,Ms. Arooj Khalil,3.0,BS,CS,CS,Core,False,CE-3,Monday,13:00,14:20
+Applied Physics,NS1001,BCS-1K,Mr. Faizan Saleem,3.0,BS,CS,NS,Core,False,CE-3,Monday,14:30,15:50
+Professional Practices,CS4001,BCS-7B,Mr. Waqas Manzoor,3.0,BS,CS,CS,Core,False,CE-3,Monday,16:00,17:20
+Differential Equations,MT1006,BCS-3A,,3.0,BS,CS,HSS,Core,True,CS-1,Monday,08:30,09:50
+Operations Research,MT4031,BSE-5A,Dr. Hakeem Ur Rehman,3.0,BS,SE,HSS,Supporting Elective,False,CS-1,Monday,10:00,11:20
+Numerical Computing,CS2008,BSR-5A,Ms. Samia Mahmood,1.0,BS,R,CS,Core,False,CS-1,Monday,13:00,14:20
+Foreign Policy of Pakistan,SS4002,BCS-3A,Dr.Tahir Rashid,3.0,BS,CS,HSS,Elective,False,CS-1,Monday,14:30,15:50
+Comp. Organization and Assembly Lang.,EE2003,BSR-3B,Mr. Salman Shoaib,3.0,BS,R,CS,Core,False,CS-1,Monday,16:00,17:20
+Calculus and Analytical Geometry,MT1003,BSE-1B,Ms. Aisha Rashid,3.0,BS,SE,HSS,Core,False,CS-8,Monday,08:30,09:50
+Introduction to Data Science,DS2001,BDS-3C,Dr. Asma Ahmad,3.0,BS,DS,DS,Core,False,CS-8,Monday,10:00,11:20
+Introduction to Data Science,DS2001,BDS-3B,Dr. Asma Ahmad,3.0,BS,DS,DS,Core,False,CS-8,Monday,11:30,12:50
+Brand Management,MG3013,BSE-3A,Mr. Saquib Bhatti,3.0,BS,SE,MG,Elective,False,CS-8,Monday,13:00,14:20
+Numerical Computing,CS2008,BCS-5G,Mr. Waqar Azeem,3.0,BS,CS,CS,Core,False,CS-8,Monday,14:30,15:50
+Computer Networks,CS3001,BDS-7B,Ms. Umme Ammara,3.0,BS,DS,CS,Core,False,CS-8,Monday,16:00,17:20
+Discrete Structures,CS1005,BDS-3C,,3.0,BS,DS,CS,Core,False,E&M-16,Monday,08:30,09:50
+Discrete Structures,CS1005,BSR-3A,Ms. Ayesha Razzaq,3.0,BS,R,CS,Core,False,E&M-16,Monday,10:00,11:20
+Information Security,CS3002,BCS-7B,Dr. Haroon Mahmood,3.0,BS,CS,CS,Core,False,E&M-16,Monday,11:30,12:50
+Professional Practices,CS4001,BCS-7F,Mr. Zummar Saad,3.0,BS,CS,CS,Core,False,E&M-16,Monday,14:30,15:50
+Professional Practices,CS4001,BSE-7A,Mr. Zummar Saad,3.0,BS,SE,CS,Core,False,E&M-16,Monday,16:00,17:20
+Functional English Lab,SL1012,BSE-1A1,,1.0,BS,SE,HSS,Core,False,English Lab-1,Monday,08:30,09:50
+Functional English Lab,SL1012,BCS-1A1,,1.0,BS,CS,HSS,Core,False,English Lab-1,Monday,10:00,11:20
+Functional English Lab,SL1012,BCS-1D1,,1.0,BS,CS,HSS,Core,False,English Lab-1,Monday,11:30,12:50
+Functional English Lab,SL1012,BCS-1C1,,1.0,BS,CS,HSS,Core,False,English Lab-1,Monday,13:00,14:20
+Functional English Lab,SL1012,BCS-1G1,,1.0,BS,CS,HSS,Core,False,English Lab-1,Monday,14:30,15:50
+Communication and Presentation Skill Lab,SS2007,BSR-5A1,,1.0,BS,R,HSS,Core,False,English Lab-1,Monday,16:00,17:20
+Functional English Lab,SL1012,BSE-1A2,,1.0,BS,SE,HSS,Core,False,English Lab-2,Monday,08:30,09:50
+Functional English Lab,SL1012,BCS-1A2,,1.0,BS,CS,HSS,Core,False,English Lab-2,Monday,10:00,11:20
+Functional English Lab,SL1012,BCS-1D2,,1.0,BS,CS,HSS,Core,False,English Lab-2,Monday,11:30,12:50
+Functional English Lab,SL1012,BCS-1C2,,1.0,BS,CS,HSS,Core,False,English Lab-2,Monday,13:00,14:20
+Functional English Lab,SL1012,BCS-1G2,,1.0,BS,CS,HSS,Core,False,English Lab-2,Monday,14:30,15:50
+Communication and Presentation Skill Lab,SS2007,BSR-5A2,,1.0,BS,R,HSS,Core,False,English Lab-2,Monday,16:00,17:20
+Functional English Lab,SL1012,BDS-1C1,,1.0,BS,DS,HSS,Core,False,English Lab-3,Monday,08:30,09:50
+Functional English Lab,SL1012,BCS-1E1,,1.0,BS,CS,HSS,Core,False,English Lab-3,Monday,10:00,11:20
+Functional English Lab,SL1012,BSE-1B1,,1.0,BS,SE,HSS,Core,False,English Lab-3,Monday,11:30,12:50
+Functional English Lab,SL1012,BDS-1C2,,1.0,BS,DS,HSS,Core,False,English Lab-4,Monday,08:30,09:50
+Functional English Lab,SL1012,BCS-1E2,,1.0,BS,CS,HSS,Core,False,English Lab-4,Monday,10:00,11:20
+Functional English Lab,SL1012,BSE-1B2,,1.0,BS,SE,HSS,Core,False,English Lab-4,Monday,11:30,12:50
+Intro. to Info and Comm. Technologies,CL1001,BCS-1C,Ms. Maham Naeem,1.0,BS,CS,CS,Core,False,Lab(CS-1),Monday,08:30,11:20
+Intro. to Info and Comm. Technologies,CL1001,BCS-1A,Ms. Maham Naeem,1.0,BS,CS,CS,Core,False,Lab(CS-1),Monday,11:30,14:20
+Intro. to Info and Comm. Technologies,CL1001,BDS-1A,Ms. Saman Ashraf,1.0,BS,DS,CS,Core,False,Lab(CS-1),Monday,14:30,17:20
+Intro. to Info and Comm. Technologies,CL1001,BCS-1D,Ms. Zehra Batool,1.0,BS,CS,CS,Core,False,Lab(CS-2A),Monday,08:30,11:20
+Comp. Organization and Assembly Lang. Lab,EL2003,BCS-3J1,,1.0,BS,CS,CS,Core,False,Lab(CS-2A),Monday,11:30,14:20
+Comp. Organization and Assembly Lang. Lab,EL2003,BCS-3J2,,1.0,BS,CS,CS,Core,False,Lab(CS-2A),Monday,11:30,14:20
+Intro. to Info and Comm. Technologies,CL1001,BCS-1F,Ms. Zehra Batool,1.0,BS,CS,CS,Core,False,Lab(CS-2B),Monday,08:30,11:20
+Data Structures Lab,CL2001,BDS-3C1,,1.0,BS,DS,CS,Core,False,Lab(CS-2B),Monday,11:30,14:20
+Data Structures Lab,CL2001,BDS-3C2,,1.0,BS,DS,CS,Core,False,Lab(CS-2B),Monday,11:30,14:20
+Intro. to Info and Comm. Technologies,CL1001,BCS-1H,,1.0,BS,CS,CS,Core,False,Lab(CS-3),Monday,08:30,11:20
+Operating Systems Lab,CS2006,BDS-5B1,,1.0,BS,DS,CS,Core,True,Lab(CS-3),Monday,11:30,14:20
+Operating Systems Lab,CS2006,BDS-5B2,,1.0,BS,DS,CS,Core,True,Lab(CS-3),Monday,11:30,14:20
+Data Analysis and Visualization Lab,DL3001,BDS-5C1,,1.0,BS,DS,DS,Core,False,Lab(CS-3),Monday,14:30,17:20
+Data Analysis and Visualization Lab,DL3001,BDS-5C2,,1.0,BS,DS,DS,Core,False,Lab(CS-3),Monday,14:30,17:20
+Intro. to Info and Comm. Technologies,CL1001,BCS-1K,,1.0,BS,CS,CS,Core,False,Lab(CS-4),Monday,08:30,11:20
+Data Analysis and Visualization Lab,DL3001,BDS-5D1,,1.0,BS,DS,DS,Core,False,Lab(CS-4),Monday,14:30,17:20
+Programming Fundamental Lab,CL1002,BSE-1C1,,1.0,BS,SE,CS,Core,False,Lab(CS-6),Monday,08:30,11:20
+Programming Fundamental Lab,CL1002,BSE-1C2,,1.0,BS,SE,CS,Core,False,Lab(CS-6),Monday,08:30,11:20
+Operating Systems Lab,CL2006,BCS-5C1,,1.0,BS,CS,CS,Core,True,Lab(CS-6),Monday,14:30,17:20
+Operating Systems Lab,CL2006,BCS-5C2,,1.0,BS,CS,CS,Core,True,Lab(CS-6),Monday,14:30,17:20
+Comp. Organization and Assembly Lang. Lab,EL2003,BSR-3B1,,1.0,BS,R,CS,Core,False,Lab(CS-8),Monday,08:30,11:20
+Comp. Organization and Assembly Lang. Lab,EL2003,BSR-3B2,,1.0,BS,R,CS,Core,False,Lab(CS-8),Monday,08:30,11:20
+Programming Fundamental Lab,CL1002,BCS-1B1,,1.0,BS,CS,CS,Core,False,Lab(CS-9),Monday,08:30,11:20
+Programming Fundamental Lab,CL1002,BCS-1B2,,1.0,BS,CS,CS,Core,False,Lab(CS-9),Monday,08:30,11:20
+Data Structures Lab,CL2001,BSE-3B1,,1.0,BS,SE,CS,Core,False,Lab(CS-9),Monday,11:30,14:20
+Data Structures Lab,CL2001,BSE-3B2,,1.0,BS,SE,CS,Core,False,Lab(CS-9),Monday,11:30,14:20
+Data Structures Lab,CL2001,BSE-3A1,,1.0,BS,SE,CS,Core,False,Lab(CS-9),Monday,14:30,17:20
+Data Structures Lab,CL2001,BSE-3A2,,1.0,BS,SE,CS,Core,False,Lab(CS-9),Monday,14:30,17:20
+Technical and Business Writing,SS2007,BCS-5E,Ms.Gulshan Saeed,3.0,BS,CS,HSS,Core,False,Seminar Hall,Tuesday,08:30,09:50
+Linear Algebra,MT1004,BCS-3D,Dr. Mazhar Hussain,3.0,BS,CS,HSS,Core,False,Seminar Hall,Tuesday,10:00,11:20
+Linear Algebra,MT1004,BCS-3A,Dr. Akhlaq Ahmad Bhatti,3.0,BS,CS,HSS,Core,False,Seminar Hall,Tuesday,11:30,12:50
+Numerical Computing,CS2008,BCS-5L,Dr. Iffat Fayyaz,3.0,BS,CS,CS,Core,False,Seminar Hall,Tuesday,13:00,14:20
+Linear Algebra,MT1004,BCS-3B,Dr. Akhlaq Ahmad Bhatti,3.0,BS,CS,HSS,Core,False,Seminar Hall,Tuesday,14:30,15:50
+Computer Networks,CS3001,BDS-7A,Dr. Muhammad Irteza,3.0,BS,DS,CS,Core,False,CS-2,Tuesday,08:30,09:50
+Advanced Operating System,CS5009,MCS-1A,Dr. Haroon Mahmood,3.0,MS,CS,CS,Core,False,CS-2,Tuesday,10:00,12:50
+Software Design and Analysis,CS3004,BCS-5F,Ms. Mehroze Khan,3.0,BS,CS,CS,Core,False,CS-2,Tuesday,13:00,14:20
+Web Programming,CS4032,BCS-7A,Mr. Waqas Manzoor,3.0,BS,CS,CS,Elective,False,CS-2,Tuesday,16:00,17:20
+Parallel and Distributed Computing,CS3006,BDS-7A,Mr. Danyal Farhat,3.0,BS,DS,CS,Core,True,CS-2,Tuesday,17:30,18:50
+Data Science Tools and Technique,DS5002,MDS-1A,Dr. Kashif Zafar,3.0,MS,DS,DS,Core,False,CS-3,Tuesday,08:30,11:20
+Data Warehousing and Data Mining,CS4058,BCS-7A,Mr. M. Ishaq Raza,3.0,BS,CS,CS,Elective,False,CS-3,Tuesday,11:30,12:50
+Theory of Automata,CS3005,BCS-5G,Mr. Hamadul Qudus,3.0,BS,CS,CS,Core,False,CS-3,Tuesday,13:00,14:20
+Data Warehousing and Business Intelligence,DS3003,BDS-5A,Mr. M. Ishaq Raza,3.0,BS,DS,DS,Core,False,CS-3,Tuesday,14:30,15:50
+Operating Systems,CS2006,BDS-5C,Mr. Mubasher Hussain,3.0,BS,DS,CS,Core,False,CS-3,Tuesday,16:00,17:20
+Operating Systems,CS2006,BSE-5A,Mr. Mubasher Hussain,3.0,BS,SE,CS,Core,False,CS-3,Tuesday,17:30,18:50
+Software Testing,CS4036,BCS-7A,,3.0,BS,CS,CS,Elective,False,CS-4,Tuesday,08:30,09:50
+Database Systems,CS2005,BSE-5A,Mr. Muhammad Naveed,3.0,BS,SE,CS,Core,True,CS-4,Tuesday,10:00,11:20
+Database Systems,CS2005,BDS-5A,Mr. Muhammad Naveed,3.0,BS,DS,CS,Core,True,CS-4,Tuesday,11:30,12:50
+Operating Systems,CS2006,BCS-5B,Ms. Namra Absar,3.0,BS,CS,CS,Core,True,CS-4,Tuesday,13:00,14:20
+Software Engineering,CS3009,BCS-7A,Ms. Momna Zainab,3.0,BS,CS,CS,Core,True,CS-4,Tuesday,14:30,15:50
+Design and Analysis of Algorithms,CS2009,BCS-5A,Dr. Khawaja Fahad,3.0,BS,CS,CS,Core,True,CS-4,Tuesday,17:30,18:50
+Programming Fundamentals,CS1002,BCS-1A,Dr. Aamir Wali,3.0,BS,CS,CS,Core,False,CS-5,Tuesday,08:30,09:50
+Programming Fundamentals,CS1002,BDS-1A,Dr. Aamir Wali,3.0,BS,DS,CS,Core,False,CS-5,Tuesday,10:00,11:20
+Software Construction Development,SE3001,BSE-5A,Dr. Farooq Ahmad,3.0,BS,SE,SE,Core,False,CS-5,Tuesday,11:30,12:50
+Data Science,CS4048,BCS-7B,Mr. Saif ul Islam,3.0,BS,CS,CS,Elective,False,CS-5,Tuesday,14:30,15:50
+Data Science,CS4048,BCS-7A,Mr. Saif ul Islam,3.0,BS,CS,CS,Elective,False,CS-5,Tuesday,16:00,17:20
+Introduction to Data Science,DS2001,BDS-3A,Mr. Saif ul Islam,3.0,BS,DS,DS,Core,False,CS-5,Tuesday,17:30,18:50
+Computer Networks,CS3001,BCS-5F,Dr. Zeeshan Ali Khan,3.0,BS,CS,CS,Core,False,CS-6,Tuesday,08:30,09:50
+Technical and Business Writing,SS2007,BCS-5J,Ms.Irum Zahoor,3.0,BS,CS,HSS,Core,False,CS-6,Tuesday,10:00,11:20
+Programming Fundamentals,CS1002,BCS-1E,Mr. Saifullah Tanvir,3.0,BS,CS,CS,Core,False,CS-6,Tuesday,11:30,12:50
+Numerical Computing,CS2008,BCS-5A,Dr. Mubashir Qayyum,3.0,BS,CS,CS,Core,False,CS-6,Tuesday,13:00,14:20
+Programming Fundamentals,CS1002,BCS-1D,Mr. Saifullah Tanvir,3.0,BS,CS,CS,Core,False,CS-6,Tuesday,14:30,15:50
+Operating Systems,CS2006,BCS-5A,Ms. Rubab Anum,3.0,BS,CS,CS,Core,True,CS-6,Tuesday,16:00,17:20
+Data Structures,CS2001,BSR-3B,Ms. Hira Butt,3.0,BS,R,CS,Core,False,CS-7,Tuesday,08:30,09:50
+Discrete Structures,CS1005,BCS-3E,Dr. Shazia Javaid,3.0,BS,CS,CS,Core,False,CS-7,Tuesday,10:00,11:20
+Computer Networks,CS3001,BCS-5K,Mr. Nauman Moazzam,3.0,BS,CS,CS,Core,False,CS-7,Tuesday,11:30,12:50
+Comp. Organization and Assembly Lang,EE2003,BCS-3A,Ms. Samin Iftikhar,3.0,BS,CS,CS,Core,False,CS-7,Tuesday,13:00,14:20
+Data Structures,CS2001,BSR-3A,Mr. Mubasher Hussain,3.0,BS,R,CS,Core,False,CS-7,Tuesday,14:30,15:50
+Data Structures,CS2001,BDS-3C,Ms. Tayyaba Bukhari,3.0,BS,DS,CS,Core,False,CS-7,Tuesday,16:00,17:20
+Software Quality Engineering,SE3002,BSE-5A,Dr. Zeeshan Ali Rana,3.0,BS,SE,SE,Core,False,CS-9,Tuesday,08:30,09:50
+Theory of Automata,CS3005,BCS-5C,Mr. Fraz Yousaf,3.0,BS,CS,CS,Core,False,CS-9,Tuesday,10:00,11:20
+Data Structures,CS2001,BSE-3B,Mr. Raziuddin,3.0,BS,SE,CS,Core,False,CS-9,Tuesday,11:30,12:50
+Data Structures,CS2001,BSE-3A,Mr. Raziuddin,3.0,BS,SE,CS,Core,False,CS-9,Tuesday,13:00,14:20
+Software Design and Analysis,CS3004,BCS-5J,Mr. Aamir Raheem,3.0,BS,CS,CS,Core,False,CS-9,Tuesday,14:30,15:50
+Software Design and Analysis,CS3004,BCS-5M,Mr. Zeeshan Nazar,3.0,BS,CS,CS,Core,False,CS-9,Tuesday,16:00,17:20
+Quantum Computing,CS4084,BCS-9A,Dr. Faisal Aslam,3.0,BS,CS,CS,Elective,True,CS-9,Tuesday,17:30,18:50
+Operating Systems,CS2006,BDS-5A,Ms. Rubab Anum,3.0,BS,DS,CS,Core,False,CS-10,Tuesday,08:30,09:50
+Design and Analysis of Algorithms,CS2009,BDS-5B,Dr. Maryam Bashir,3.0,BS,DS,CS,Core,False,CS-10,Tuesday,10:00,11:20
+Data Structures,CS2001,BCS-3G,Mr. Uzair Naqvi,3.0,BS,CS,CS,Core,False,CS-10,Tuesday,11:30,12:50
+Data Structures,CS2001,BCS-3H,Mr. Uzair Naqvi,3.0,BS,CS,CS,Core,False,CS-10,Tuesday,13:00,14:20
+Computer Networks,CS3001,BCS-5G,Dr. Zeeshan Ali Khan,3.0,BS,CS,CS,Core,False,CS-10,Tuesday,14:30,15:50
+Technical and Business Writing,SS2007,BCS-5C,Ms.Hajra Ikram,3.0,BS,CS,HSS,Core,False,CS-10,Tuesday,16:00,17:20
+Operating Systems,CS2006,BDS-5B,Ms. Namra Absar,3.0,BS,DS,CS,Core,False,CS-11,Tuesday,08:30,09:50
+Programming Fundamentals,CS1002,BCS-1F,Dr. Asma Naseer,3.0,BS,CS,CS,Core,False,CS-11,Tuesday,10:00,11:20
+Programming Fundamentals,CS1002,BCS-1G,Dr. Asma Naseer,3.0,BS,CS,CS,Core,False,CS-11,Tuesday,11:30,12:50
+Design and Analysis of Algorithms,CS2009,BDS-5A,Dr. Maryam Bashir,3.0,BS,DS,CS,Core,False,CS-11,Tuesday,13:00,14:20
+Database Systems,CS2005,BCS-5C,Mr. Muhammad Naveed,3.0,BS,CS,CS,Core,True,CS-11,Tuesday,14:30,15:50
+Discrete Structures,CS1005,BCS-3D,Dr. Shazia Javaid,3.0,BS,CS,CS,Core,False,CS-15,Tuesday,08:30,09:50
+Information Security,CS3002,BDS-7A,Dr. Ammar Haider,3.0,BS,DS,CS,Core,False,CS-15,Tuesday,10:00,11:20
+Software Design and Analysis,CS3004,BCS-5E,Mr. Zeeshan Nazar,3.0,BS,CS,CS,Core,False,CS-15,Tuesday,11:30,12:50
+Human Computer Interaction,CS2007,BSE-3C,,3.0,BS,SE,SE,Core,False,CS-15,Tuesday,13:00,14:20
+Data Analysis and Visualization,DS3001,BDS-5C,Ms Bushra Rashid,3.0,BS,DS,DS,Core,False,CS-15,Tuesday,14:30,15:50
+Software Quality Engineering,SE3002,BSE-5B,,3.0,BS,SE,SE,Core,False,CS-15,Tuesday,17:30,18:50
+Technical and Business Writing,SS2007,BDS-5C,Ms. Nayyab Mufti,3.0,BS,DS,HSS,Core,False,CS-16,Tuesday,08:30,09:50
+Numerical Computing,CS2008,BCS-5D,Dr. Syed Tauseef Saeed,3.0,BS,CS,CS,Core,False,CS-16,Tuesday,10:00,11:20
+Theory of Automata,CS3005,BCS-5F,Mr. Hamadul Qudus,3.0,BS,CS,CS,Core,False,CS-16,Tuesday,11:30,12:50
+Object Oriented Programming,CS1004,BSE-3A,Ms. Anosha Khan,3.0,BS,SE,CS,Core,True,CS-16,Tuesday,13:00,14:20
+Applied Physics,NS1001,BCS-1C,Mr. Nazim Aslam,3.0,BS,CS,NS,Core,False,CS-16,Tuesday,14:30,15:50
+Applied Physics,NS1001,BCS-1D,Mr. Nazim Aslam,3.0,BS,CS,NS,Core,False,CS-16,Tuesday,16:00,17:20
+Discrete Structures,CS1005,BDS-3A,Dr. Saeeda Zia,3.0,BS,DS,CS,Core,False,Lib,Tuesday,08:30,09:50
+Computer Networks,CS3001,BCS-5A,Mr. Ahmad Raza,3.0,BS,CS,CS,Core,False,Lib,Tuesday,10:00,11:20
+Theory of Automata,CS3005,BCS-5D,Mr. Fraz Yousaf,3.0,BS,CS,CS,Core,False,Lib,Tuesday,11:30,12:50
+Data Analysis and Visualization,DS3001,BDS-5B,Ms Bushra Rashid,3.0,BS,DS,DS,Core,False,Lib,Tuesday,13:00,14:20
+Numerical Computing,CS2008,BCS-5H,Mr. Waqar Azeem,3.0,BS,CS,CS,Core,False,Lib,Tuesday,14:30,15:50
+Artificial Intelligence,AI2002,BCS-7B,Dr. Hajra Waheed,3.0,BS,CS,CS,Core,True,Lib,Tuesday,16:00,17:20
+Technical and Business Writing,SS2007,BCS-5A,Ms. Naima Chauhdary,3.0,BS,CS,HSS,Core,False,E&M-1,Tuesday,08:30,09:50
+Theory of Automata,CS3005,BSR-5A,Mr. Irteza,3.0,BS,R,CS,Core,False,E&M-1,Tuesday,10:00,11:20
+Functional English,SS1012,BCS-1C,Ms. Ayesha Saeed,2.0,BS,CS,HSS,Core,False,E&M-1,Tuesday,11:30,13:20
+Operating Systems,CS2006,BSE-5B,Ms. Rubab Anum,3.0,BS,SE,CS,Core,False,E&M-1,Tuesday,14:30,15:50
+Computer Networks,CS3001,BCS-5D,Dr. Arshad Ali,3.0,BS,CS,CS,Core,False,E&M-2,Tuesday,08:30,09:50
+Computer Networks,CS3001,BCS-5C,Dr. Arshad Ali,3.0,BS,CS,CS,Core,False,E&M-2,Tuesday,11:30,12:50
+Probability and Statistics,MT2005,BDS-3A,Ms. Kanwal Saleem,3.0,BS,DS,HSS,Core,False,E&M-2,Tuesday,13:00,14:20
+Marketing Management,MG1002,BCS-3A,Mr. Saquib Bhatti,3.0,BS,CS,MG,Elective,False,E&M-2,Tuesday,14:30,15:50
+Marketing Management,MG1002,BCS-3B,Mr. Saquib Bhatti,3.0,BS,CS,MG,Elective,False,E&M-2,Tuesday,16:00,17:20
+Human Computer Interaction,CS2007,BSE-3A,Ms. Momna Zainab,3.0,BS,SE,SE,Core,False,E&M-3,Tuesday,11:30,12:50
+Technical and Business Writing,SS2007,BCS-5M,Ms. Uzma Safdar,3.0,BS,CS,HSS,Core,False,E&M-3,Tuesday,14:30,15:50
+Modern Politics and Government,SS2036,BSR-3A,Mr. Abdul Sattar,3.0,BS,R,HSS,Elctive,False,E&M-3,Tuesday,16:00,17:20
+Software Requirements Engineering,SE2001,BSE-3C,Dr. Wafa Basit,3.0,BS,SE,CS,Core,False,E&M-4,Tuesday,11:30,12:50
+Human Computer Interaction,CS2007,BSE-3B,Ms. Momna Zainab,3.0,BS,SE,SE,Core,False,E&M-4,Tuesday,13:00,14:20
+Functional English,SS1012,BCS-1E,Dr. Wasim Hasan,2.0,BS,CS,HSS,Core,False,E&M-4,Tuesday,14:30,16:20
+Calculus and Analytical Geometry,MT1003,BCS-1K,Ms. Mahnoor Badar,3.0,BS,CS,HSS,Core,False,E&M-5,Tuesday,08:30,09:50
+Information Security,CS3002,BSE-7B,Dr. Rana Asif Rehman,3.0,BS,SE,CS,Core,False,E&M-5,Tuesday,10:00,11:20
+Digital Logic Design,EE1005,BSR-3A,Ms. Mamona Akram,3.0,BS,R,CS,Core,True,E&M-5,Tuesday,11:30,12:50
+Functional English,SS1012,BCS-1K,Ms. Aqsa Naz,2.0,BS,CS,HSS,Core,False,E&M-5,Tuesday,14:30,16:20
+Calculus and Analytical Geometry,MT1003,BCS-1H,Mr. Tasaduque Hussain Shah,3.0,BS,CS,HSS,Core,False,E&M-11,Tuesday,08:30,09:50
+Numerical Computing,CS2008,BCS-5B,Dr. Mubashir Qayyum,3.0,BS,CS,CS,Core,False,E&M-11,Tuesday,10:00,11:20
+Probability and Statistics,MT2005,BSE-3A,Dr. Muhammad Javaid,3.0,BS,SE,HSS,Core,False,E&M-11,Tuesday,14:30,15:50
+Probability and Statistics,MT2005,BSE-3B,Dr. Muhammad Javaid,3.0,BS,SE,HSS,Core,False,E&M-11,Tuesday,16:00,17:20
+Calculus and Analytical Geometry,MT1003,BCS-1B,Mr. Muhammad Saleem Chishti,3.0,BS,CS,HSS,Core,False,CE-1,Tuesday,08:30,09:50
+Functional English,SS1012,BSE-1A,Ms. Namra Fazal,2.0,BS,SE,HSS,Core,False,CE-1,Tuesday,10:00,11:50
+Technical and Business Writing,SS2007,BCS-5K,Mr. Razm-ul-Zafar,3.0,BS,CS,HSS,Core,False,CE-1,Tuesday,13:00,14:20
+Functional English,SS1012,BDS-1B,Ms. Falaknaz Zia,2.0,BS,DS,HSS,Core,False,CE-1,Tuesday,14:30,16:20
+International Relations,SS2039,BCS-3B,Dr.Tahir Rashid,3.0,BS,CS,HSS,Elective,False,CE-2,Tuesday,08:30,09:50
+Mass Communication,SS2040,BSE-3A,Dr. Sapna,3.0,BS,SE,HSS,Elective,False,CE-2,Tuesday,10:00,11:20
+Theory of Automata,CS3005,BCS-5J,Dr. Tahir Ejaz,3.0,BS,CS,CS,Core,False,CE-2,Tuesday,11:30,12:50
+Parallel and Distributed Computing,CS3006,BCS-7A,Mr. Danyal Farhat,3.0,BS,CS,CS,Core,True,CE-2,Tuesday,13:00,14:20
+Probability and Statistics,MT2005,BDS-3B,Ms. Kanwal Saleem,3.0,BS,DS,HSS,Core,False,CE-2,Tuesday,14:30,15:50
+Technical and Business Writing,SS2007,BSE-5B,,3.0,BS,SE,HSS,Core,False,CE-2,Tuesday,16:00,17:20
+Theory of Automata,CS3005,BCS-5K,Dr. Tahir Ejaz,3.0,BS,CS,CS,Core,False,CE-2,Tuesday,17:30,18:50
+Calculus and Analytical Geometry,MT1003,BCS-1F,VF,3.0,BS,CS,HSS,Core,False,CE-3,Tuesday,08:30,09:50
+Programming Fundamentals,CS1002,BCS-1B,Ms. Arooj Khalil,3.0,BS,CS,CS,Core,False,CE-3,Tuesday,10:00,11:20
+Discrete Structures,CS1005,BDS-3B,,3.0,BS,DS,CS,Core,False,CE-3,Tuesday,11:30,12:50
+Technical and Business Writing,SS2007,BCS-5B,Ms.Hajra Ikram,3.0,BS,CS,HSS,Core,False,CE-3,Tuesday,14:30,15:50
+Internet of Things,IO4041,BCS-9A,Mr. Ahmad Raza,3.0,BS,CS,CS,Elective,True,CE-3,Tuesday,16:00,17:20
+Mass Communication,SS2040,BCS-3A,Ms. Fatima Zahra,3.0,BS,CS,HSS,Elective,False,CS-1,Tuesday,08:30,09:50
+Mass Communication,SS2040,BCS-3B,Ms. Fatima Zahra,3.0,BS,CS,HSS,Elective,False,CS-1,Tuesday,10:00,11:20
+Linear Algebra,MT1004,BCS-3F,Dr. Mazhar Hussain,3.0,BS,CS,HSS,Core,False,CS-1,Tuesday,11:30,12:50
+Information Security,CS3002,BSE-7A,Dr. Rana Asif Rehman,3.0,BS,SE,CS,Core,False,CS-1,Tuesday,13:00,14:20
+Calculus and Analytical Geometry,MT1003,BDS-1A,VF,3.0,BS,DS,HSS,Core,False,CS-1,Tuesday,14:30,15:50
+Introduction to Public Policy,SS4003,BCS-3A,,3.0,BS,CS,HSS,Elective,False,CS-1,Tuesday,16:00,17:20
+Technical and Business Writing,SS2007,BCS-5H,Ms.Irum Zahoor,3.0,BS,CS,HSS,Core,False,CS-8,Tuesday,08:30,09:50
+Computer Networks,CS3001,BCS-5J,Mr. Nauman Moazzam,3.0,BS,CS,CS,Core,False,CS-8,Tuesday,10:00,11:20
+Software Design and Analysis,CS3004,BCS-5G,Mr. Aamir Raheem,3.0,BS,CS,CS,Core,False,CS-8,Tuesday,11:30,12:50
+Technical and Business Writing,SS2007,BCS-5L,Mr. Razm-ul-Zafar,3.0,BS,CS,HSS,Core,False,CS-8,Tuesday,14:30,15:50
+Foreign Policy of Pakistan,SS4002,BCS-3B,Mr.Muhammad Ijaz,3.0,BS,CS,HSS,Elective,False,E&M-16,Tuesday,08:30,09:50
+Design and Analysis of Algorithms,CS2009,BCS-5E,Mr. Usama Hassan,3.0,BS,CS,CS,Core,True,E&M-16,Tuesday,10:00,11:20
+Communication and Presentation Skill,SS2007,BSR-5A,Ms. Rubab Arshad,2.0,BS,R,HSS,Core,False,E&M-16,Tuesday,11:30,13:20
+Functional English,SS1012,BCS-1A,Ms.Nokhaiz Zahra,2.0,BS,CS,HSS,Core,False,E&M-16,Tuesday,14:30,16:20
+Functional English Lab,SL1012,BDS-1A1,,1.0,BS,DS,HSS,Core,False,English Lab-1,Tuesday,08:30,09:50
+Functional English Lab,SL1012,BCS-1K1,,1.0,BS,CS,HSS,Core,False,English Lab-1,Tuesday,10:00,11:20
+Functional English Lab,SL1012,BCS-1B1,,1.0,BS,CS,HSS,Core,False,English Lab-1,Tuesday,11:30,12:50
+Functional English Lab,SL1012,BCS-1F1,,1.0,BS,CS,HSS,Core,False,English Lab-1,Tuesday,14:30,15:50
+Functional English Lab,SL1012,BDS-1A2,,1.0,BS,DS,HSS,Core,False,English Lab-2,Tuesday,08:30,09:50
+Functional English Lab,SL1012,BCS-1K2,,1.0,BS,CS,HSS,Core,False,English Lab-2,Tuesday,10:00,11:20
+Functional English Lab,SL1012,BCS-1B2,,1.0,BS,CS,HSS,Core,False,English Lab-2,Tuesday,11:30,12:50
+Functional English Lab,SL1012,BCS-1F2,,1.0,BS,CS,HSS,Core,False,English Lab-2,Tuesday,14:30,15:50
+Functional English Lab,SL1012,BDS-1B1,,1.0,BS,DS,HSS,Core,False,English Lab-3,Tuesday,10:00,11:20
+Functional English Lab,SL1012,BCS-1H1,,1.0,BS,CS,HSS,Core,False,English Lab-3,Tuesday,14:30,15:50
+Functional English Lab,SL1012,BDS-1B2,,1.0,BS,DS,HSS,Core,False,English Lab-4,Tuesday,10:00,11:20
+Functional English Lab,SL1012,BCS-1H2,,1.0,BS,CS,HSS,Core,False,English Lab-4,Tuesday,14:30,15:50
+Intro. to Info and Comm. Technologies,CL1001,BCS-1E,Ms. Zehra Batool,1.0,BS,CS,CS,Core,False,Lab(CS-1),Tuesday,08:30,11:20
+Computer Networks Lab,CL3001,BCS-5H1,,1.0,BS,CS,CS,Core,False,Lab(CS-1),Tuesday,11:30,14:20
+Computer Networks Lab,CL3001,BCS-5H2,,1.0,BS,CS,CS,Core,False,Lab(CS-1),Tuesday,11:30,14:20
+Intro. to Info and Comm. Technologies,CL1001,BCS-1G,,1.0,BS,CS,CS,Core,False,Lab(CS-1),Tuesday,14:30,17:20
+Data Structures Lab,CL2001,BCS-3F1,,1.0,BS,CS,CS,Core,False,Lab(CS-2A),Tuesday,08:30,11:20
+Data Structures Lab,CL2001,BCS-3F2,,1.0,BS,CS,CS,Core,False,Lab(CS-2A),Tuesday,08:30,11:20
+Programming Fundamental Lab,CL1002,BCS-1F1,,1.0,BS,CS,CS,Core,False,Lab(CS-2A),Tuesday,11:30,14:20
+Programming Fundamental Lab,CL1002,BCS-1F2,,1.0,BS,CS,CS,Core,False,Lab(CS-2A),Tuesday,11:30,14:20
+Data Structures Lab,CL2001,BDS-3B1,,1.0,BS,DS,CS,Core,False,Lab(CS-2B),Tuesday,08:30,11:20
+Data Structures Lab,CL2001,BDS-3B2,,1.0,BS,DS,CS,Core,False,Lab(CS-2B),Tuesday,08:30,11:20
+Programming Fundamental Lab,CL1002,BCS-1H1,,1.0,BS,CS,CS,Core,False,Lab(CS-2B),Tuesday,11:30,14:20
+Programming Fundamental Lab,CL1002,BCS-1H2,,1.0,BS,CS,CS,Core,False,Lab(CS-2B),Tuesday,11:30,14:20
+Intro. to Info and Comm. Technologies,CL1001,BSE-1A,Ms. Mamoona Majid,1.0,BS,SE,CS,Core,False,Lab(CS-2B),Tuesday,14:30,17:20
+Comp. Organization and Assembly Lang. Lab,EL2003,BSR-3A1,,1.0,BS,R,CS,Core,False,Lab(CS-3),Tuesday,08:30,11:20
+Comp. Organization and Assembly Lang. Lab,EL2003,BSR-3A2,,1.0,BS,R,CS,Core,False,Lab(CS-3),Tuesday,08:30,11:20
+Programming Fundamental Lab,CL1002,BCS-1K1,,1.0,BS,CS,CS,Core,False,Lab(CS-3),Tuesday,11:30,14:20
+Programming Fundamental Lab,CL1002,BCS-1K2,,1.0,BS,CS,CS,Core,False,Lab(CS-3),Tuesday,11:30,14:20
+Computer Networks Lab,CL3001,BSR-5A1,,3.0,BS,R,CS,Core,False,Lab(CS-3),Tuesday,14:30,17:20
+Computer Networks Lab,CL3001,BSR-5A2,,3.0,BS,R,CS,Core,False,Lab(CS-3),Tuesday,14:30,17:20
+Computer Networks Lab,CL3001,BCS-5L1,,1.0,BS,CS,CS,Core,False,Lab(CS-4),Tuesday,08:30,11:20
+Computer Networks Lab,CL3001,BCS-5L2,,1.0,BS,CS,CS,Core,False,Lab(CS-4),Tuesday,08:30,11:20
+Programming Fundamental Lab,CL1002,BDS-1A1,,1.0,BS,CS,CS,Core,False,Lab(CS-4),Tuesday,11:30,14:20
+Programming Fundamental Lab,CL1002,BDS-1A2,,1.0,BS,CS,CS,Core,False,Lab(CS-4),Tuesday,11:30,14:20
+Computer Networks Lab,CL3001,BCS-5E1,,1.0,BS,CS,CS,Core,False,Lab(CS-4),Tuesday,14:30,17:20
+Computer Networks Lab,CL3001,BCS-5E2,,1.0,BS,CS,CS,Core,False,Lab(CS-4),Tuesday,14:30,17:20
+Programming Fundamental Lab,CL1002,BDS-1C1,,1.0,BS,CS,CS,Core,False,Lab(CS-6),Tuesday,08:30,11:20
+Programming Fundamental Lab,CL1002,BDS-1C2,,1.0,BS,CS,CS,Core,False,Lab(CS-6),Tuesday,08:30,11:20
+Programming Fundamental Lab,CL1002,BDS-1B1,,1.0,BS,CS,CS,Core,False,Lab(CS-6),Tuesday,11:30,14:20
+Programming Fundamental Lab,CL1002,BDS-1B2,,1.0,BS,CS,CS,Core,False,Lab(CS-6),Tuesday,11:30,14:20
+Data Structures Lab,CL2001,BCS-3D1,,1.0,BS,CS,CS,Core,False,Lab(CS-8),Tuesday,11:30,14:20
+Data Structures Lab,CL2001,BCS-3D2,,1.0,BS,CS,CS,Core,False,Lab(CS-8),Tuesday,11:30,14:20
+Comp. Organization and Assembly Lang. Lab,EL2003,BCS-3B1,,1.0,BS,CS,CS,Core,False,Lab(CS-9),Tuesday,11:30,14:20
+Comp. Organization and Assembly Lang. Lab,EL2003,BCS-3B2,,1.0,BS,CS,CS,Core,False,Lab(CS-9),Tuesday,11:30,14:20
+Data Structures Lab,CL2001,BSE-3C1,,1.0,BS,SE,CS,Core,False,Lab(CS-9),Tuesday,14:30,17:20
+Data Structures Lab,CL2001,BSE-3C2,,1.0,BS,SE,CS,Core,False,Lab(CS-9),Tuesday,14:30,17:20
+Digital Logic Design Lab,EL1005,BSR-3A1,,1.0,BS,R,CS,Core,True,Physics Lab,Tuesday,08:30,11:20
+Digital Logic Design Lab,EL1005,BSR-3A2,,1.0,BS,R,CS,Core,True,Micro Lab,Tuesday,08:30,11:20
+Data Structures,CS2001,BDS-3B,Ms. Hira Butt,3.0,BS,DS,CS,Core,False,Seminar Hall,Wednesday,08:30,09:50
+Data Structures,CS2001,BDS-3A,Ms. Hira Butt,3.0,BS,DS,CS,Core,False,Seminar Hall,Wednesday,10:00,11:20
+Software Design and Analysis,CS3004,BCS-5D,Ms. Lehmia Kiran,3.0,BS,CS,CS,Core,False,Seminar Hall,Wednesday,11:30,12:50
+Information Security,CS3002,BCS-7E,Dr. Ammar Haider,3.0,BS,CS,CS,Core,False,Seminar Hall,Wednesday,13:00,14:20
+Linear Algebra,MT1004,BCS-3C,Dr. Akhlaq Ahmad Bhatti,3.0,BS,CS,HSS,Core,False,Seminar Hall,Wednesday,14:30,15:50
+Linear Algebra,MT1004,BCS-3E,Dr. Muhammad Nasir,3.0,BS,CS,HSS,Core,False,Seminar Hall,Wednesday,16:00,17:20
+Professional Practices,CS4001,BDS-7B,,3.0,BS,DS,CS,Core,False,Seminar Hall,Wednesday,17:30,18:50
+Fundamental of Computer Vision,CS4059,BCS-7B,Dr. Asif Gilani,3.0,BS,CS,CS,Elective,False,CS-2,Wednesday,08:30,09:50
+Data Structures,CS2001,BCS-3B,Dr. Zareen Alamgir,3.0,BS,CS,CS,Core,False,CS-2,Wednesday,10:00,11:20
+Data Structures,CS2001,BCS-3A,Dr. Zareen Alamgir,3.0,BS,CS,CS,Core,False,CS-2,Wednesday,11:30,12:50
+Software Design and Analysis,CS3004,BCS-5K,Ms. Mehroze Khan,3.0,BS,CS,CS,Core,False,CS-2,Wednesday,13:00,14:20
+Block chain and Cryptocurrency,CS4049,BDS-7A,Ms. Tayyaba Bukhari,3.0,BS,DS,CS,Elective,False,CS-2,Wednesday,14:30,15:50
+Block chain and Cryptocurrency,CS4049,BDS-7B,Ms. Tayyaba Bukhari,3.0,BS,DS,CS,Elective,False,CS-2,Wednesday,16:00,17:20
+Management and Organizational Behavior,MG4006,MSP-1A,Mr. Saqib Bhatti,3.0,MS,SPM,MG,Core,False,CS-2,Wednesday,17:30,20:20
+Theory of Automata,CS3005,BCS-5A,Ms. Sobia Tariq,3.0,BS,CS,CS,Core,False,CS-3,Wednesday,08:30,09:50
+Theory of Automata,CS3005,BCS-5B,Ms. Sobia Tariq,3.0,BS,CS,CS,Core,False,CS-3,Wednesday,10:00,11:20
+Database Systems,CS2005,BCS-5A,Mr. M. Ishaq Raza,3.0,BS,CS,CS,Core,True,CS-3,Wednesday,11:30,12:50
+Theory of Automata,CS3005,BCS-5E,Mr. Fraz Yousaf,3.0,BS,CS,CS,Core,False,CS-3,Wednesday,13:00,14:20
+Database Systems,CS2005,BCS-5B,Mr. M. Ishaq Raza,3.0,BS,CS,CS,Core,True,CS-3,Wednesday,14:30,15:50
+Compiler Construction,CS4031,BCS-7A,Dr. Faisal Aslam,3.0,BS,CS,CS,Elective,False,CS-3,Wednesday,16:00,17:20
+Compiler Construction,CS4031,BCS-7B,Dr. Faisal Aslam,3.0,BS,CS,CS,Elective,False,CS-3,Wednesday,17:30,18:50
+Comp. Organization and Assembly Lang,EE2003,BCS-3B,Ms. Samin Iftikhar,3.0,BS,CS,CS,Core,False,CS-4,Wednesday,08:30,09:50
+Comp. Organization and Assembly Lang,EE2003,BCS-3D,Ms. Aleena Ahmad,3.0,BS,CS,CS,Core,False,CS-4,Wednesday,10:00,11:20
+Comp. Organization and Assembly Lang,EE2003,BCS-3E,Ms. Aleena Ahmad,3.0,BS,CS,CS,Core,False,CS-4,Wednesday,11:30,12:50
+Comp. Organization and Assembly Lang,EE2003,BCS-3C,Ms. Samin Iftikhar,3.0,BS,CS,CS,Core,False,CS-4,Wednesday,13:00,14:20
+Comp. Organization and Assembly Lang,EE2003,BCS-3F,Ms. Aleena Ahmad,3.0,BS,CS,CS,Core,False,CS-4,Wednesday,14:30,15:50
+Technical and Business Writing,SS2007,BSE-5A,,3.0,BS,SE,HSS,Core,False,CS-4,Wednesday,17:30,18:50
+Discrete Structures,CS1005,BCS-3G,Dr. Uzma Bashir,3.0,BS,CS,CS,Core,False,CS-5,Wednesday,08:30,09:50
+Information Security,CS3002,BCS-7C,Dr. Rana Asif Rehman,3.0,BS,CS,CS,Core,False,CS-5,Wednesday,10:00,11:20
+Programming Fundamentals,CS1002,BCS-1C,Mr. Uzair Naqvi,3.0,BS,CS,CS,Core,False,CS-5,Wednesday,11:30,12:50
+Artificial Intelligence,AI2002,BCS-7A,Dr. Hajra Waheed,3.0,BS,CS,CS,Core,True,CS-5,Wednesday,13:00,14:20
+Software Design and Analysis,CS3004,BCS-5L,Ms. Mehroze Khan,3.0,BS,CS,CS,Core,False,CS-5,Wednesday,14:30,15:50
+Calculus and Analytical Geometry,MT1003,BDS-1C,VF,3.0,BS,DS,HSS,Core,False,CS-5,Wednesday,16:00,17:20
+Data Warehousing and Business Intelligence,DS3003,BDS-5C,,3.0,BS,DS,DS,Core,False,CS-5,Wednesday,17:30,18:50
+Medical Image Processing,CS6007,MCS-1A,Dr. Asma Naseer,3.0,MS,CS,CS,Elective,False,CS-6,Wednesday,08:30,09:50
+Advanced Theory of Computation,CS5005,MCS-1A,Dr. Khawaja Fahad,3.0,MS,CS,CS,Core,False,CS-6,Wednesday,10:00,12:50
+Brand Management,MG3013,BSE-3A,Mr. Saquib Bhatti,3.0,BS,SE,MG,Elective,False,CS-6,Wednesday,13:00,14:20
+Fundamentals of Big Data Analytics,DS2004,BDS-5A,Ms. Mamoona Akbar,3.0,BS,DS,DS,Core,True,CS-6,Wednesday,14:30,15:50
+Numerical Computing,CS2008,BCS-5E,Ms. Iqra Yaqoot,3.0,BS,CS,CS,Core,False,CS-6,Wednesday,16:00,17:20
+Object Oriented Programming,CS1004,BSR-3A,,3.0,BS,R,CS,Core,True,CS-6,Wednesday,17:30,18:50
+Computer Speech Processing,CS5058,MDS-3A,Dr. Maryam Bashir,3.0,MS,DS,DS,Elective,False,CS-7,Wednesday,08:30,11:20
+Applied Artificial Intelligence,AI4007,BSE-7A,Dr. Kashif Zafar,3.0,BS,SE,CS,Core,False,CS-7,Wednesday,11:30,12:50
+Programming Fundamentals,CS1002,BSE-1C,Ms. Anosha Khan,3.0,BS,SE,CS,Core,False,CS-7,Wednesday,13:00,14:20
+Programming Fundamentals,CS1002,BSE-1B,Ms. Anosha Khan,3.0,BS,SE,CS,Core,False,CS-7,Wednesday,14:30,15:50
+Numerical Computing,CS2008,BCS-5F,Ms. Iqra Yaqoot,3.0,BS,CS,CS,Core,False,CS-7,Wednesday,16:00,17:20
+Technical and Business Writing,SS2007,BDS-5A,Ms. Nayyab Mufti,3.0,BS,DS,HSS,Core,False,CS-9,Wednesday,08:30,09:50
+Comp. Organization and Assembly Lang,EE2003,BDS-3B,Ms. Sana Fatima,3.0,BS,DS,CS,Core,False,CS-9,Wednesday,10:00,11:20
+Comp. Organization and Assembly Lang,EE2003,BDS-3A,Ms. Sana Fatima,3.0,BS,DS,CS,Core,False,CS-9,Wednesday,11:30,12:50
+Software Design and Analysis,CS3004,BCS-5H,Mr. Aamir Raheem,3.0,BS,CS,CS,Core,False,CS-9,Wednesday,13:00,14:20
+Software Requirements Engineering,SE2001,BSE-3B,Dr. Zeeshan Ali Rana,3.0,BS,SE,CS,Core,False,CS-9,Wednesday,14:30,15:50
+Calculus and Analytical Geometry,MT1003,BSE-1C,VF,3.0,BS,SE,HSS,Core,False,CS-9,Wednesday,16:00,17:20
+Computer Networks,CS3001,BCS-5H,Dr. Zeeshan Ali Khan,3.0,BS,CS,CS,Core,False,CS-10,Wednesday,08:30,09:50
+Data Structures,CS2001,BCS-3C,Dr. Saira Karim,3.0,BS,CS,CS,Core,False,CS-10,Wednesday,10:00,11:20
+Data Structures,CS2001,BCS-3D,Dr. Saira Karim,3.0,BS,CS,CS,Core,False,CS-10,Wednesday,11:30,12:50
+Data Structures,CS2001,BSE-3C,Mr. Uzair Naqvi,3.0,BS,SE,CS,Core,False,CS-10,Wednesday,13:00,14:20
+Web Programming,CS4032,BCS-7B,Mr. Saifullah Tanvir,3.0,BS,CS,CS,Elective,False,CS-10,Wednesday,14:30,15:50
+Numerical Computing,CS2008,BCS-5J,Dr. Nazish Iftikhar,3.0,BS,CS,CS,Core,False,CS-10,Wednesday,16:00,17:20
+Computer Networks,CS3001,BSR-5A,Dr. Muhammad Irteza,3.0,BS,R,CS,Core,False,CS-11,Wednesday,08:30,09:50
+Design and Analysis of Algorithms,CS2009,BSR-5A,Mr. Usama Hassan,3.0,BS,R,CS,Core,True,CS-11,Wednesday,10:00,11:20
+Design and Analysis of Algorithms,CS2009,BDS-5C,Mr. Usama Hassan,3.0,BS,DS,CS,Core,False,CS-11,Wednesday,11:30,12:50
+Programming Fundamentals,CS1002,BSE-1A,Mr. Raziuddin,3.0,BS,SE,CS,Core,False,CS-11,Wednesday,13:00,14:20
+Information Security,CS3002,BCS-7A,Dr. Haroon Mahmood,3.0,BS,CS,CS,Core,False,CS-11,Wednesday,14:30,15:50
+Probability and Statistics,MT2005,BCS-5A,,3.0,BS,CS,HSS,Core,True,CS-11,Wednesday,16:00,17:20
+Software Requirements Engineering,SE2001,BSE-3A,Dr. Zeeshan Ali Rana,3.0,BS,SE,CS,Core,False,CS-11,Wednesday,17:30,18:50
+Technical and Business Writing,SS2007,BDS-5B,Ms. Naima Chauhdary,3.0,BS,DS,HSS,Core,False,CS-15,Wednesday,08:30,09:50
+Programming Fundamentals,CS1002,BCS-1J,Mr. Saifullah Tanvir,3.0,BS,CS,CS,Core,False,CS-15,Wednesday,10:00,11:20
+Professional Practices,CS4001,BCS-7E,Ms. Mehwish Mumtaz,3.0,BS,CS,CS,Core,False,CS-15,Wednesday,11:30,12:50
+Data Analysis and Visualization,DS3001,BDS-5D,Umme Ammara,3.0,BS,DS,DS,Core,False,CS-15,Wednesday,13:00,14:20
+Linear Algebra,MT1004,BCS-3G,Dr. Muhammad Nasir,3.0,BS,CS,HSS,Core,False,CS-15,Wednesday,14:30,15:50
+Linear Algebra,MT1004,BCS-3J,Ms. Sarah Asghar,3.0,BS,CS,HSS,Core,False,CS-15,Wednesday,16:00,17:20
+Software Construction Development,SE3001,BSE-5B,,3.0,BS,SE,SE,Core,False,CS-15,Wednesday,17:30,18:50
+Software Design and Analysis,CS3004,BCS-5B,Dr. Ali Afzal Malik,3.0,BS,CS,CS,Core,False,CS-16,Wednesday,08:30,09:50
+Calculus and Analytical Geometry,MT1003,BSE-1A,Ms. Aisha Rashid,3.0,BS,SE,HSS,Core,False,CS-16,Wednesday,10:00,11:20
+Fundamental of Computer Vision,CS4059,BCS-7A,Dr. Asif Gilani,3.0,BS,CS,CS,Elective,False,CS-16,Wednesday,11:30,12:50
+Applied Physics,NS1001,BCS-1F,Ms. Mehwish Qutab,3.0,BS,CS,NS,Core,False,CS-16,Wednesday,13:00,14:20
+Probability and Statistics,MT2005,BSE-3C,Mr. Qasim Noor Hussain,3.0,BS,SE,HSS,Core,False,CS-16,Wednesday,14:30,15:50
+Entrepreneurship,MG4011,BCS-3B,Dr. Shahrman Khattak,3.0,BS,CS,MG,Elective,False,CS-16,Wednesday,16:00,17:20
+Entrepreneurship,MG4011,BCS-3A,Dr. Shahrman Khattak,3.0,BS,CS,MG,Elective,False,CS-16,Wednesday,17:30,18:50
+Operating Systems,CS2006,BCS-5C,Ms. Namra Absar,3.0,BS,CS,CS,Core,True,Lib,Wednesday,08:30,09:50
+Technical and Business Writing,SS2007,BCS-5F,Ms.Gulshan Saeed,3.0,BS,CS,HSS,Core,False,Lib,Wednesday,10:00,11:20
+Applied Physics,NS1001,BCS-1E,Ms. Mehwish Qutab,3.0,BS,CS,NS,Core,False,Lib,Wednesday,11:30,12:50
+Discrete Structures,CS1005,BCS-3A,,3.0,BS,CS,CS,Core,False,Lib,Wednesday,13:00,14:20
+Numerical Computing,CS2008,BCS-5G,Mr. Waqar Azeem,3.0,BS,CS,CS,Core,False,Lib,Wednesday,14:30,15:50
+Professional Practices,CS4001,BCS-7D,Dr. Amjad Hussain,3.0,BS,CS,CS,Core,False,Lib,Wednesday,16:00,17:20
+Professional Practices,CS4001,BCS-7C,Dr. Amjad Hussain,3.0,BS,CS,CS,Core,False,Lib,Wednesday,17:30,18:50
+Calculus and Analytical Geometry,MT1003,BCS-1A,Mr. Muhammad Saleem Chishti,3.0,BS,CS,HSS,Core,False,E&M-1,Wednesday,08:30,09:50
+Discrete Structures,CS1005,BSR-3A,Ms. Ayesha Razzaq,3.0,BS,R,CS,Core,False,E&M-1,Wednesday,10:00,11:20
+Technical and Business Writing,SS2007,BDS-5D,Ms.Uzma Safdar,3.0,BS,DS,HSS,Core,False,E&M-1,Wednesday,11:30,12:50
+Applied Physics,NS1001,BCS-1G,Ms. Hufsa Attique,3.0,BS,CS,NS,Core,False,E&M-1,Wednesday,13:00,14:20
+Calculus and Analytical Geometry,MT1003,BCS-1C,Mr. Muhammad Rizwan,3.0,BS,CS,HSS,Core,False,E&M-1,Wednesday,14:30,15:50
+Calculus and Analytical Geometry,MT1003,BCS-1D,Mr. Muhammad Rizwan,3.0,BS,CS,HSS,Core,False,E&M-1,Wednesday,16:00,17:20
+Professional Practices,CS4001,BDS-7A,Ms. Samman Ashraf,3.0,BS,DS,CS,Core,False,E&M-1,Wednesday,17:30,18:50
+Calculus and Analytical Geometry,MT1003,BCS-1E,VF,3.0,BS,CS,HSS,Core,False,E&M-2,Wednesday,08:30,09:50
+Comp. Organization and Assembly Lang,EE2003,BCS-3J,Mr. Salman Shoaib,3.0,BS,CS,CS,Core,False,E&M-2,Wednesday,10:00,11:20
+Design and Analysis of Algorithms,CS2009,BCS-5C,Ms. Abeeda Akram,3.0,BS,CS,CS,Core,True,E&M-2,Wednesday,11:30,12:50
+Applied Physics,NS1001,BCS-1J,Mr. Faizan Saleem,3.0,BS,CS,NS,Core,False,E&M-2,Wednesday,13:00,14:20
+Operations Research,MT4031,BSE-5C,Mr. Amjad Ali,3.0,BS,SE,HSS,Supporting Elective,False,E&M-2,Wednesday,14:30,15:50
+Theory of Automata,CS3005,BCS-5H,Mr. Hamadul Qudus,3.0,BS,CS,CS,Core,False,E&M-2,Wednesday,16:00,17:20
+Parallel and Distributed Computing,CS3006,BCS-9A,,3.0,BS,CS,CS,Core,False,E&M-2,Wednesday,17:30,18:50
+Calculus and Analytical Geometry,MT1003,BCS-1G,Mr. Tasaduque Hussain Shah,3.0,BS,CS,HSS,Core,False,E&M-3,Wednesday,08:30,09:50
+Software Design and Analysis,CS3004,BCS-5A,Dr. Ali Afzal Malik,3.0,BS,CS,CS,Core,False,E&M-3,Wednesday,10:00,11:20
+Functional English,SS1012,BCS-1H,Ms. Iqra Rafiq,2.0,BS,CS,HSS,Core,False,E&M-3,Wednesday,11:30,13:20
+Numerical Computing,CS2008,BCS-5K,Dr. Nazish Iftikhar,3.0,BS,CS,CS,Core,False,E&M-3,Wednesday,14:30,15:50
+Professional Practices,CS4001,BCS-7B,Mr. Waqas Manzoor,3.0,BS,CS,CS,Core,False,E&M-3,Wednesday,16:00,17:20
+Computer Networks,CS3001,BCS-5B,Mr. Danyal Farhat,3.0,BS,CS,CS,Core,False,E&M-4,Wednesday,11:30,12:50
+Applied Physics,NS1001,BCS-1B,Mr. Shehroz Rafi,3.0,BS,CS,NS,Core,False,E&M-4,Wednesday,13:00,14:20
+Applied Physics,NS1001,BCS-1A,Mr. Shehroz Rafi,3.0,BS,CS,NS,Core,False,E&M-4,Wednesday,14:30,15:50
+Linear Algebra,MT1004,BSR-3B,VF,3.0,BS,R,HSS,Core,False,E&M-4,Wednesday,16:00,17:20
+Discrete Structures,CS1005,BCS-3C,Dr. Saeeda Zia,3.0,BS,CS,CS,Core,False,E&M-5,Wednesday,08:30,09:50
+Software Design and Analysis,CS3004,BSR-5A,Mr. Zeeshan Nazar,3.0,BS,R,CS,Core,False,E&M-5,Wednesday,10:00,11:20
+Discrete Structures,CS1005,BCS-3B,Dr. Saeeda Zia,3.0,BS,CS,CS,Core,False,E&M-5,Wednesday,11:30,12:50
+Applied Physics,NS1001,BDS-1C,Ms. Arfa Hassan,3.0,BS,DS,NS,Core,False,E&M-5,Wednesday,13:00,14:20
+Discrete Structures,CS1005,BCS-3J,Dr. Misbah Irshad,3.0,BS,CS,CS,Core,False,E&M-5,Wednesday,14:30,15:50
+International Relations,SS2039,BCS-3A,Dr.Tahir Rashid,3.0,BS,CS,HSS,Elective,False,E&M-5,Wednesday,16:00,17:20
+Calculus and Analytical Geometry,MT1003,BCS-1J,Ms. Mahnoor Badar,3.0,BS,CS,HSS,Core,False,E&M-11,Wednesday,08:30,09:50
+Software Design and Analysis,CS3004,BCS-5C,Ms. Lehmia Kiran,3.0,BS,CS,CS,Core,False,E&M-11,Wednesday,10:00,11:20
+Computer Networks,CS3001,BCS-5E,Dr. Arshad Ali,3.0,BS,CS,CS,Core,False,E&M-11,Wednesday,11:30,12:50
+Applied Physics,NS1001,BDS-1A,Ms. Nida Raees,3.0,BS,DS,NS,Core,False,E&M-11,Wednesday,13:00,14:20
+Applied Physics,NS1001,BCS-1H,Ms. Hufsa Attique,3.0,BS,CS,NS,Core,False,E&M-11,Wednesday,14:30,15:50
+Probability and Statistics,MT2005,BDS-3C,Ms. Kanwal Saleem,3.0,BS,DS,HSS,Core,False,E&M-11,Wednesday,16:00,17:20
+Technical and Business Writing,SS2007,BCS-5D,Ms.Gulshan Saeed,3.0,BS,CS,HSS,Core,False,CE-1,Wednesday,08:30,09:50
+Computer Networks,CS3001,BSE-7A,Dr. Muhammad Irteza,3.0,BS,SE,CS,Core,True,CE-1,Wednesday,10:00,11:20
+Computer Networks,CS3001,BCS-5L,Mr. Ahmad Raza,3.0,BS,CS,CS,Core,False,CE-1,Wednesday,11:30,12:50
+Applied Physics,NS1001,BDS-1B,Ms. Iqra,3.0,BS,DS,NS,Core,False,CE-1,Wednesday,13:00,14:20
+Functional English,SS1012,BDS-1A,Dr. Zahida Mansoor,2.0,BS,DS,HSS,Core,False,CE-1,Wednesday,14:30,16:20
+Introduction to Public Policy,SS4003,BSE-3A,,3.0,BS,SE,SS,Elective,False,CE-2,Wednesday,08:30,09:50
+Discrete Structures,CS1005,BCS-3F,Dr. Uzma Bashir,3.0,BS,CS,CS,Core,False,CE-2,Wednesday,10:00,11:20
+Comp. Organization and Assembly Lang,EE2003,BCS-3G,Ms. Atira Anum,3.0,BS,CS,CS,Core,False,CE-2,Wednesday,11:30,12:50
+Comp. Organization and Assembly Lang,EE2003,BCS-3H,Ms. Atira Anum,3.0,BS,CS,CS,Core,False,CE-2,Wednesday,13:00,14:20
+Information Security,CS3002,BCS-7D,Dr. Ammar Haider,3.0,BS,CS,CS,Core,False,CE-2,Wednesday,14:30,15:50
+Linear Algebra,MT1004,BSR-3A,VF,3.0,BS,R,HSS,Core,False,CE-2,Wednesday,16:00,17:20
+Software Quality Engineering,SE3002,BSE-5C,,3.0,BS,SE,SE,Core,False,CE-3,Wednesday,08:30,09:50
+Design and Analysis of Algorithms,CS2009,BCS-5D,Ms. Abeeda Akram,3.0,BS,CS,CS,Core,True,CE-3,Wednesday,10:00,11:20
+Data Structures,CS2001,BCS-3F,Ms. Arooj Khalil,3.0,BS,CS,CS,Core,False,CE-3,Wednesday,11:30,12:50
+Data Structures,CS2001,BCS-3E,Ms. Arooj Khalil,3.0,BS,CS,CS,Core,False,CE-3,Wednesday,13:00,14:20
+Applied Physics,NS1001,BCS-1K,Mr. Faizan Saleem,3.0,BS,CS,NS,Core,False,CE-3,Wednesday,14:30,15:50
+Computer Networks,CS3001,BDS-7B,Ms. Umme Ammara,3.0,BS,DS,CS,Core,False,CE-3,Wednesday,16:00,17:20
+Technical and Business Writing,SS2007,BCS-5G,Ms.Irum Zahoor,3.0,BS,CS,HSS,Core,False,CS-1,Wednesday,08:30,09:50
+Operations Research,MT4031,BSE-5A,Dr. Hakeem Ur Rehman,3.0,BS,SE,HSS,Supporting Elective,False,CS-1,Wednesday,10:00,11:20
+Comp. Organization and Assembly Lang.,EE2003,BSR-3B,Mr. Salman Shoaib,3.0,BS,R,CS,Core,False,CS-1,Wednesday,11:30,12:50
+Numerical Computing,CS2008,BSR-5A,Ms. Samia Mahmood,1.0,BS,R,CS,Core,False,CS-1,Wednesday,13:00,14:20
+Foreign Policy of Pakistan,SS4002,BCS-3A,Dr.Tahir Rashid,3.0,BS,CS,HSS,Elective,False,CS-1,Wednesday,14:30,15:50
+Comp. Organization and Assembly Lang.,EE2003,BSR-3A,Ms. Sana Fatima,3.0,BS,R,CS,Core,False,CS-1,Wednesday,16:00,17:20
+Calculus and Analytical Geometry,MT1003,BSE-1B,Ms. Aisha Rashid,3.0,BS,SE,HSS,Core,False,CS-8,Wednesday,08:30,09:50
+Introduction to Data Science,DS2001,BDS-3C,Dr. Asma Ahmad,3.0,BS,DS,DS,Core,False,CS-8,Wednesday,10:00,11:20
+Introduction to Data Science,DS2001,BDS-3B,Dr. Asma Ahmad,3.0,BS,DS,DS,Core,False,CS-8,Wednesday,11:30,12:50
+Discrete Structures,CS1005,BSR-3B,,3.0,BS,R,CS,Core,False,CS-8,Wednesday,13:00,14:20
+Calculus and Analytical Geometry,MT1003,BDS-1B,VF,3.0,BS,DS,HSS,Core,False,CS-8,Wednesday,14:30,15:50
+Discrete Structures,CS1005,BDS-3C,,3.0,BS,DS,CS,Core,False,E&M-16,Wednesday,08:30,09:50
+Data Analysis and Visualization,DS3001,BDS-5A,Umme Ammara,3.0,BS,DS,DS,Core,False,E&M-16,Wednesday,10:00,11:20
+Information Security,CS3002,BCS-7B,Dr. Haroon Mahmood,3.0,BS,CS,CS,Core,False,E&M-16,Wednesday,11:30,12:50
+Theory of Automata,CS3005,BCS-5L,Dr. Tahir Ejaz,3.0,BS,CS,CS,Core,False,E&M-16,Wednesday,13:00,14:20
+Linear Algebra,MT1004,BCS-3H,Ms. Sarah Asghar,3.0,BS,CS,HSS,Core,False,E&M-16,Wednesday,14:30,15:50
+Professional Practices,CS4001,BSE-7A,Mr. Zummar Saad,3.0,BS,SE,CS,Core,False,E&M-16,Wednesday,16:00,17:20
+Functional English Lab,SL1012,BSE-1A1,,1.0,BS,SE,HSS,Core,False,English Lab-1,Wednesday,08:30,09:50
+Functional English Lab,SL1012,BCS-1A1,,1.0,BS,CS,HSS,Core,False,English Lab-1,Wednesday,10:00,11:20
+Functional English Lab,SL1012,BCS-1D1,,1.0,BS,CS,HSS,Core,False,English Lab-1,Wednesday,11:30,12:50
+Functional English Lab,SL1012,BCS-1C1,,1.0,BS,CS,HSS,Core,False,English Lab-1,Wednesday,13:00,14:20
+Functional English Lab,SL1012,BCS-1G1,,1.0,BS,CS,HSS,Core,False,English Lab-1,Wednesday,14:30,15:50
+Communication and Presentation Skill Lab,SS2007,BSR-5A1,,1.0,BS,R,HSS,Core,False,English Lab-1,Wednesday,16:00,17:20
+Functional English Lab,SL1012,BSE-1A2,,1.0,BS,SE,HSS,Core,False,English Lab-2,Wednesday,08:30,09:50
+Functional English Lab,SL1012,BCS-1A2,,1.0,BS,CS,HSS,Core,False,English Lab-2,Wednesday,10:00,11:20
+Functional English Lab,SL1012,BCS-1D2,,1.0,BS,CS,HSS,Core,False,English Lab-2,Wednesday,11:30,12:50
+Functional English Lab,SL1012,BCS-1C2,,1.0,BS,CS,HSS,Core,False,English Lab-2,Wednesday,13:00,14:20
+Functional English Lab,SL1012,BCS-1G2,,1.0,BS,CS,HSS,Core,False,English Lab-2,Wednesday,14:30,15:50
+Communication and Presentation Skill Lab,SS2007,BSR-5A2,,1.0,BS,R,HSS,Core,False,English Lab-2,Wednesday,16:00,17:20
+Functional English Lab,SL1012,BDS-1C1,,1.0,BS,DS,HSS,Core,False,English Lab-3,Wednesday,08:30,09:50
+Functional English Lab,SL1012,BCS-1E1,,1.0,BS,CS,HSS,Core,False,English Lab-3,Wednesday,10:00,11:20
+Functional English Lab,SL1012,BSE-1B1,,1.0,BS,SE,HSS,Core,False,English Lab-3,Wednesday,11:30,12:50
+Functional English Lab,SL1012,BCS-1J1,,1.0,BS,CS,HSS,Core,False,English Lab-3,Wednesday,14:30,15:50
+Functional English Lab,SL1012,BDS-1C2,,1.0,BS,DS,HSS,Core,False,English Lab-4,Wednesday,08:30,09:50
+Functional English Lab,SL1012,BCS-1E2,,1.0,BS,CS,HSS,Core,False,English Lab-4,Wednesday,10:00,11:20
+Functional English Lab,SL1012,BSE-1B2,,1.0,BS,SE,HSS,Core,False,English Lab-4,Wednesday,11:30,12:50
+Functional English Lab,SL1012,BCS-1J2,,1.0,BS,CS,HSS,Core,False,English Lab-4,Wednesday,14:30,15:50
+Programming Fundamental Lab,CL1002,BCS-1D1,,1.0,BS,CS,CS,Core,False,Lab(CS-1),Wednesday,08:30,11:20
+Programming Fundamental Lab,CL1002,BCS-1D2,,1.0,BS,CS,CS,Core,False,Lab(CS-1),Wednesday,08:30,11:20
+Data Warehousing and Business Intelligence,DS3003,BDS-5B,,3.0,BS,DS,DS,Core,False,Lab(CS-1),Wednesday,11:30,12:50
+Comp. Organization and Assembly Lang. Lab,EL2003,BDS-3A1,,1.0,BS,DS,CS,Core,False,Lab(CS-2A),Wednesday,08:30,11:20
+Comp. Organization and Assembly Lang. Lab,EL2003,BDS-3A2,,1.0,BS,DS,CS,Core,False,Lab(CS-2A),Wednesday,08:30,11:20
+Computer Networks Lab,CL3001,BCS-5D1,,1.0,BS,CS,CS,Core,False,Lab(CS-2A),Wednesday,14:30,17:20
+Computer Networks Lab,CL3001,BCS-5D2,,1.0,BS,CS,CS,Core,False,Lab(CS-2A),Wednesday,14:30,17:20
+Operating Systems Lab,CS2006,BDS-5C1,,1.0,BS,DS,CS,Core,True,Lab(CS-2B),Wednesday,14:30,17:20
+Operating Systems Lab,CS2006,BDS-5C2,,1.0,BS,DS,CS,Core,True,Lab(CS-2B),Wednesday,14:30,17:20
+Intro. to Info and Comm. Technologies,CL1001,BSE-1C,Ms. Mamoona Majid,1.0,BS,SE,CS,Core,False,Lab(CS-3),Wednesday,08:30,11:20
+Operating Systems Lab,CS2006,BDS-5A1,,1.0,BS,DS,CS,Core,True,Lab(CS-3),Wednesday,11:30,14:20
+Operating Systems Lab,CS2006,BDS-5A2,,1.0,BS,DS,CS,Core,True,Lab(CS-3),Wednesday,11:30,14:20
+Computer Networks Lab,CL3001,BCS-5K1,,1.0,BS,CS,CS,Core,False,Lab(CS-6),Wednesday,08:30,11:20
+Computer Networks Lab,CL3001,BCS-5K2,,1.0,BS,CS,CS,Core,False,Lab(CS-6),Wednesday,08:30,11:20
+Computer Networks Lab,CL3001,BCS-5F1,,1.0,BS,CS,CS,Core,False,Lab(CS-6),Wednesday,11:30,14:20
+Computer Networks Lab,CL3001,BCS-5F2,,1.0,BS,CS,CS,Core,False,Lab(CS-6),Wednesday,11:30,14:20
+Computer Networks Lab,CL3001,BCS-5G1,,1.0,BS,CS,CS,Core,False,Lab(CS-8),Wednesday,11:30,14:20
+Computer Networks Lab,CL3001,BCS-5G2,,1.0,BS,CS,CS,Core,False,Lab(CS-8),Wednesday,11:30,14:20
+Programming Fundamental Lab,CL1002,BCS-1C1,,1.0,BS,CS,CS,Core,False,Lab(CS-9),Wednesday,08:30,11:20
+Programming Fundamental Lab,CL1002,BCS-1C2,,1.0,BS,CS,CS,Core,False,Lab(CS-9),Wednesday,08:30,11:20
+Computer Networks Lab,CL3001,BCS-5J1,,1.0,BS,CS,CS,Core,False,Lab(CS-9),Wednesday,11:30,14:20
+Computer Networks Lab,CL3001,BCS-5J2,,1.0,BS,CS,CS,Core,False,Lab(CS-9),Wednesday,11:30,14:20
+Programming Fundamental Lab,CL1002,BSE-1A1,,1.0,BS,SE,CS,Core,False,Lab(CS-9),Wednesday,14:30,17:20
+Programming Fundamental Lab,CL1002,BSE-1A2,,1.0,BS,SE,CS,Core,False,Lab(CS-9),Wednesday,14:30,17:20
+Discrete Structures,CS1005,BCS-3D,Dr. Shazia Javaid,3.0,BS,CS,CS,Core,False,Seminar Hall,Thursday,08:30,09:50
+Linear Algebra,MT1004,BCS-3D,Dr. Mazhar Hussain,3.0,BS,CS,HSS,Core,False,Seminar Hall,Thursday,10:00,11:20
+Linear Algebra,MT1004,BCS-3A,Dr. Akhlaq Ahmad Bhatti,3.0,BS,CS,HSS,Core,False,Seminar Hall,Thursday,11:30,12:50
+Numerical Computing,CS2008,BCS-5L,Dr. Iffat Fayyaz,3.0,BS,CS,CS,Core,False,Seminar Hall,Thursday,13:00,14:20
+Linear Algebra,MT1004,BCS-3B,Dr. Akhlaq Ahmad Bhatti,3.0,BS,CS,HSS,Core,False,Seminar Hall,Thursday,14:30,15:50
+Technical and Business Writing,SS2007,BSE-5C,,3.0,BS,SE,HSS,Core,False,Seminar Hall,Thursday,16:00,17:20
+Computer Networks,CS3001,BDS-7A,Dr. Muhammad Irteza,3.0,BS,DS,CS,Core,False,CS-2,Thursday,08:30,09:50
+Deep Learning,DS5006,MCS-1A,Dr. Saira Karim,3.0,MS,CS,CS,Elective,False,CS-2,Thursday,10:00,12:50
+Software Design and Analysis,CS3004,BCS-5F,Ms. Mehroze Khan,3.0,BS,CS,CS,Core,False,CS-2,Thursday,13:00,14:20
+Web Programming,CS4032,BCS-7A,Mr. Waqas Manzoor,3.0,BS,CS,CS,Elective,False,CS-2,Thursday,16:00,17:20
+Parallel and Distributed Computing,CS3006,BDS-7A,Mr. Danyal Farhat,3.0,BS,DS,CS,Core,True,CS-2,Thursday,17:30,18:50
+Technical and Business Writing,SS2007,BCS-5E,Ms.Gulshan Saeed,3.0,BS,CS,HSS,Core,False,CS-3,Thursday,08:30,09:50
+Numerical Computing,CS2008,BCS-5D,Dr. Syed Tauseef Saeed,3.0,BS,CS,CS,Core,False,CS-3,Thursday,10:00,11:20
+Data Warehousing and Data Mining,CS4058,BCS-7A,Mr. M. Ishaq Raza,3.0,BS,CS,CS,Elective,False,CS-3,Thursday,11:30,12:50
+Theory of Automata,CS3005,BCS-5G,Mr. Hamadul Qudus,3.0,BS,CS,CS,Core,False,CS-3,Thursday,13:00,14:20
+Data Warehousing and Business Intelligence,DS3003,BDS-5A,Mr. M. Ishaq Raza,3.0,BS,DS,DS,Core,False,CS-3,Thursday,14:30,15:50
+Operating Systems,CS2006,BDS-5C,Mr. Mubasher Hussain,3.0,BS,DS,CS,Core,False,CS-3,Thursday,16:00,17:20
+Operating Systems,CS2006,BSE-5A,Mr. Mubasher Hussain,3.0,BS,SE,CS,Core,False,CS-3,Thursday,17:30,18:50
+Software Testing,CS4036,BCS-7A,,3.0,BS,CS,CS,Elective,False,CS-4,Thursday,08:30,09:50
+Database Systems,CS2005,BSE-5A,Mr. Muhammad Naveed,3.0,BS,SE,CS,Core,True,CS-4,Thursday,10:00,11:20
+Database Systems,CS2005,BDS-5A,Mr. Muhammad Naveed,3.0,BS,DS,CS,Core,True,CS-4,Thursday,11:30,12:50
+Software Engineering,CS3009,BCS-7A,Ms. Momna Zainab,3.0,BS,CS,CS,Core,True,CS-4,Thursday,14:30,15:50
+Programming Fundamentals,CS1002,BCS-1A,Dr. Aamir Wali,3.0,BS,CS,CS,Core,False,CS-5,Thursday,08:30,09:50
+Programming Fundamentals,CS1002,BDS-1A,Dr. Aamir Wali,3.0,BS,DS,CS,Core,False,CS-5,Thursday,10:00,11:20
+Software Construction Development,SE3001,BSE-5A,Dr. Farooq Ahmad,3.0,BS,SE,SE,Core,False,CS-5,Thursday,11:30,12:50
+Operating Systems,CS2006,BCS-5B,Ms. Namra Absar,3.0,BS,CS,CS,Core,True,CS-5,Thursday,13:00,14:20
+Data Science,CS4048,BCS-7B,Mr. Saif ul Islam,3.0,BS,CS,CS,Elective,False,CS-5,Thursday,14:30,15:50
+Data Science,CS4048,BCS-7A,Mr. Saif ul Islam,3.0,BS,CS,CS,Elective,False,CS-5,Thursday,16:00,17:20
+Adavanced Software Engineering,SE5031,MSP-3A,Dr. Ghulam Ahmad Farrukh,3.0,MS,SPM,SE,Elective,False,CS-5,Thursday,17:30,20:20
+Computer Networks,CS3001,BCS-5F,Dr. Zeeshan Ali Khan,3.0,BS,CS,CS,Core,False,CS-6,Thursday,08:30,09:50
+Programming Fundamentals,CS1002,BCS-1H,Ms. Hina Iqbal,3.0,BS,CS,CS,Core,False,CS-6,Thursday,10:00,11:20
+Programming Fundamentals,CS1002,BCS-1E,Mr. Saifullah Tanvir,3.0,BS,CS,CS,Core,False,CS-6,Thursday,11:30,12:50
+Numerical Computing,CS2008,BCS-5A,Dr. Mubashir Qayyum,3.0,BS,CS,CS,Core,False,CS-6,Thursday,13:00,14:20
+Programming Fundamentals,CS1002,BCS-1D,Mr. Saifullah Tanvir,3.0,BS,CS,CS,Core,False,CS-6,Thursday,14:30,15:50
+Operating Systems,CS2006,BCS-5A,Ms. Rubab Anum,3.0,BS,CS,CS,Core,True,CS-6,Thursday,16:00,17:20
+Design and Analysis of Algorithms,CS2009,BCS-5A,Dr. Khawaja Fahad,3.0,BS,CS,CS,Core,True,CS-6,Thursday,17:30,18:50
+Data Structures,CS2001,BSR-3B,Ms. Hira Butt,3.0,BS,R,CS,Core,False,CS-7,Thursday,08:30,09:50
+Theory of Automata,CS3005,BCS-5F,Mr. Hamadul Qudus,3.0,BS,CS,CS,Core,False,CS-7,Thursday,11:30,12:50
+Comp. Organization and Assembly Lang,EE2003,BCS-3A,Ms. Samin Iftikhar,3.0,BS,CS,CS,Core,False,CS-7,Thursday,13:00,14:20
+Data Structures,CS2001,BSR-3A,Mr. Mubasher Hussain,3.0,BS,R,CS,Core,False,CS-7,Thursday,14:30,15:50
+Digital Logic Design,EE1005,BDS-3A,Ms. Maimoona Akram,3.0,BS,DS,CS,Core,True,CS-7,Thursday,16:00,17:20
+Introduction to Data Science,DS2001,BDS-3A,Mr. Saif ul Islam,3.0,BS,DS,DS,Core,False,CS-7,Thursday,17:30,18:50
+Software Quality Engineering,SE3002,BSE-5A,Dr. Zeeshan Ali Rana,3.0,BS,SE,SE,Core,False,CS-9,Thursday,08:30,09:50
+Theory of Automata,CS3005,BCS-5C,Mr. Fraz Yousaf,3.0,BS,CS,CS,Core,False,CS-9,Thursday,10:00,11:20
+Data Structures,CS2001,BSE-3B,Mr. Raziuddin,3.0,BS,SE,CS,Core,False,CS-9,Thursday,11:30,12:50
+Data Structures,CS2001,BSE-3A,Mr. Raziuddin,3.0,BS,SE,CS,Core,False,CS-9,Thursday,13:00,14:20
+Marketing Management,MG1002,BCS-3A,Mr. Saquib Bhatti,3.0,BS,CS,MG,Elective,False,CS-9,Thursday,14:30,15:50
+Software Design and Analysis,CS3004,BCS-5M,Mr. Zeeshan Nazar,3.0,BS,CS,CS,Core,False,CS-9,Thursday,16:00,17:20
+Quantum Computing,CS4084,BCS-9A,Dr. Faisal Aslam,3.0,BS,CS,CS,Elective,True,CS-9,Thursday,17:30,18:50
+Operating Systems,CS2006,BDS-5A,Ms. Rubab Anum,3.0,BS,DS,CS,Core,False,CS-10,Thursday,08:30,09:50
+Design and Analysis of Algorithms,CS2009,BDS-5B,Dr. Maryam Bashir,3.0,BS,DS,CS,Core,False,CS-10,Thursday,10:00,11:20
+Data Structures,CS2001,BCS-3G,Mr. Uzair Naqvi,3.0,BS,CS,CS,Core,False,CS-10,Thursday,11:30,12:50
+Data Structures,CS2001,BCS-3H,Mr. Uzair Naqvi,3.0,BS,CS,CS,Core,False,CS-10,Thursday,13:00,14:20
+Computer Networks,CS3001,BCS-5G,Dr. Zeeshan Ali Khan,3.0,BS,CS,CS,Core,False,CS-10,Thursday,14:30,15:50
+Technical and Business Writing,SS2007,BCS-5C,Ms.Hajra Ikram,3.0,BS,CS,HSS,Core,False,CS-10,Thursday,16:00,17:20
+Operating Systems,CS2006,BDS-5B,Ms. Namra Absar,3.0,BS,DS,CS,Core,False,CS-11,Thursday,08:30,09:50
+Programming Fundamentals,CS1002,BCS-1F,Dr. Asma Naseer,3.0,BS,CS,CS,Core,False,CS-11,Thursday,10:00,11:20
+Programming Fundamentals,CS1002,BCS-1G,Dr. Asma Naseer,3.0,BS,CS,CS,Core,False,CS-11,Thursday,11:30,12:50
+Design and Analysis of Algorithms,CS2009,BDS-5A,Dr. Maryam Bashir,3.0,BS,DS,CS,Core,False,CS-11,Thursday,13:00,14:20
+Database Systems,CS2005,BCS-5C,Mr. Muhammad Naveed,3.0,BS,CS,CS,Core,True,CS-11,Thursday,14:30,15:50
+Marketing Management,MG1002,BCS-3B,Mr. Saquib Bhatti,3.0,BS,CS,MG,Elective,False,CS-11,Thursday,16:00,17:20
+Technical and Business Writing,SS2007,BDS-5C,Ms. Nayyab Mufti,3.0,BS,DS,HSS,Core,False,CS-15,Thursday,08:30,09:50
+Information Security,CS3002,BDS-7A,Dr. Ammar Haider,3.0,BS,DS,CS,Core,False,CS-15,Thursday,10:00,11:20
+Software Design and Analysis,CS3004,BCS-5E,Mr. Zeeshan Nazar,3.0,BS,CS,CS,Core,False,CS-15,Thursday,11:30,12:50
+Human Computer Interaction,CS2007,BSE-3C,,3.0,BS,SE,SE,Core,False,CS-15,Thursday,13:00,14:20
+Data Analysis and Visualization,DS3001,BDS-5C,Ms Bushra Rashid,3.0,BS,DS,DS,Core,False,CS-15,Thursday,14:30,15:50
+Data Structures,CS2001,BDS-3C,Ms. Tayyaba Bukhari,3.0,BS,DS,CS,Core,False,CS-15,Thursday,16:00,17:20
+Theory of Automata,CS3005,BCS-5M,Mr. Amjad Ali,3.0,BS,CS,CS,Core,False,CS-16,Thursday,08:30,09:50
+Discrete Structures,CS1005,BCS-3E,Dr. Shazia Javaid,3.0,BS,CS,CS,Core,False,CS-16,Thursday,10:00,11:20
+Computer Networks,CS3001,BCS-5K,Mr. Nauman Moazzam,3.0,BS,CS,CS,Core,False,CS-16,Thursday,11:30,12:50
+Object Oriented Programming,CS1004,BSE-3A,Ms. Anosha Khan,3.0,BS,SE,CS,Core,True,CS-16,Thursday,13:00,14:20
+Applied Physics,NS1001,BCS-1C,Mr. Nazim Aslam,3.0,BS,CS,NS,Core,False,CS-16,Thursday,14:30,15:50
+Applied Physics,NS1001,BCS-1D,Mr. Nazim Aslam,3.0,BS,CS,NS,Core,False,CS-16,Thursday,16:00,17:20
+Software Design and Analysis,CS3004,BSR-5A,Mr. Zeeshan Nazar,3.0,BS,R,CS,Core,False,Lib,Thursday,08:30,09:50
+Computer Networks,CS3001,BCS-5A,Mr. Ahmad Raza,3.0,BS,CS,CS,Core,False,Lib,Thursday,10:00,11:20
+Theory of Automata,CS3005,BCS-5D,Mr. Fraz Yousaf,3.0,BS,CS,CS,Core,False,Lib,Thursday,11:30,12:50
+Data Analysis and Visualization,DS3001,BDS-5B,Ms Bushra Rashid,3.0,BS,DS,DS,Core,False,Lib,Thursday,13:00,14:20
+Numerical Computing,CS2008,BCS-5H,Mr. Waqar Azeem,3.0,BS,CS,CS,Core,False,Lib,Thursday,14:30,15:50
+Artificial Intelligence,AI2002,BCS-7B,Dr. Hajra Waheed,3.0,BS,CS,CS,Core,True,Lib,Thursday,16:00,17:20
+Technical and Business Writing,SS2007,BCS-5A,Ms. Naima Chauhdary,3.0,BS,CS,HSS,Core,False,E&M-1,Thursday,08:30,09:50
+Theory of Automata,CS3005,BSR-5A,Mr. Irteza,3.0,BS,R,CS,Core,False,E&M-1,Thursday,10:00,11:20
+Functional English,SS1012,BCS-1D,Ms. Ayesha Saeed,2.0,BS,CS,HSS,Core,False,E&M-1,Thursday,11:30,13:20
+Operating Systems,CS2006,BSE-5B,Ms. Rubab Anum,3.0,BS,SE,CS,Core,False,E&M-1,Thursday,14:30,15:50
+Computer Networks,CS3001,BCS-5D,Dr. Arshad Ali,3.0,BS,CS,CS,Core,False,E&M-2,Thursday,08:30,09:50
+Computer Networks,CS3001,BCS-5C,Dr. Arshad Ali,3.0,BS,CS,CS,Core,False,E&M-2,Thursday,11:30,12:50
+Probability and Statistics,MT2005,BDS-3A,Ms. Kanwal Saleem,3.0,BS,DS,HSS,Core,False,E&M-2,Thursday,13:00,14:20
+Software Design and Analysis,CS3004,BCS-5J,Mr. Aamir Raheem,3.0,BS,CS,CS,Core,False,E&M-2,Thursday,14:30,15:50
+Software Quality Engineering,SE3002,BSE-5B,,3.0,BS,SE,SE,Core,False,E&M-2,Thursday,17:30,18:50
+Human Computer Interaction,CS2007,BSE-3A,Ms. Momna Zainab,3.0,BS,SE,SE,Core,False,E&M-3,Thursday,11:30,12:50
+Software Requirements Engineering,SE2001,BSE-3C,Dr. Wafa Basit,3.0,BS,SE,CS,Core,False,E&M-4,Thursday,11:30,12:50
+Human Computer Interaction,CS2007,BSE-3B,Ms. Momna Zainab,3.0,BS,SE,SE,Core,False,E&M-4,Thursday,13:00,14:20
+Calculus and Analytical Geometry,MT1003,BDS-1A,VF,3.0,BS,DS,HSS,Core,False,E&M-4,Thursday,14:30,15:50
+Modern Politics and Government,SS2036,BSR-3A,Mr. Abdul Sattar,3.0,BS,R,HSS,Elctive,False,E&M-4,Thursday,16:00,17:20
+Calculus and Analytical Geometry,MT1003,BCS-1K,Ms. Mahnoor Badar,3.0,BS,CS,HSS,Core,False,E&M-5,Thursday,08:30,09:50
+Information Security,CS3002,BSE-7B,Dr. Rana Asif Rehman,3.0,BS,SE,CS,Core,False,E&M-5,Thursday,10:00,11:20
+Digital Logic Design,EE1005,BSR-3A,Ms. Mamona Akram,3.0,BS,R,CS,Core,True,E&M-5,Thursday,11:30,12:50
+Technical and Business Writing,SS2007,BCS-5M,Ms. Uzma Safdar,3.0,BS,CS,HSS,Core,False,E&M-5,Thursday,14:30,15:50
+Calculus and Analytical Geometry,MT1003,BCS-1H,Mr. Tasaduque Hussain Shah,3.0,BS,CS,HSS,Core,False,E&M-11,Thursday,08:30,09:50
+Big Data,DS5001,MDS-1A,Dr. Asma Ahmad,3.0,MS,DS,Specialized,Core,False,E&M-11,Thursday,10:00,12:50
+Technical and Business Writing,SS2007,BCS-5K,Mr. Razm-ul-Zafar,3.0,BS,CS,HSS,Core,False,E&M-11,Thursday,13:00,14:20
+Probability and Statistics,MT2005,BSE-3A,Dr. Muhammad Javaid,3.0,BS,SE,HSS,Core,False,E&M-11,Thursday,14:30,15:50
+Probability and Statistics,MT2005,BSE-3B,Dr. Muhammad Javaid,3.0,BS,SE,HSS,Core,False,E&M-11,Thursday,16:00,17:20
+Calculus and Analytical Geometry,MT1003,BCS-1B,Mr. Muhammad Saleem Chishti,3.0,BS,CS,HSS,Core,False,CE-1,Thursday,08:30,09:50
+Numerical Computing,CS2008,BCS-5B,Dr. Mubashir Qayyum,3.0,BS,CS,CS,Core,False,CE-1,Thursday,10:00,11:20
+Functional English,SS1012,BCS-1J,Ms. Iqra Rafiq,2.0,BS,CS,HSS,Core,False,CE-1,Thursday,11:30,13:20
+Functional English,SS1012,BDS-1C,Ms. Falaknaz Zia,2.0,BS,DS,HSS,Core,False,CE-1,Thursday,14:30,16:20
+International Relations,SS2039,BCS-3B,Dr.Tahir Rashid,3.0,BS,CS,HSS,Elective,False,CE-2,Thursday,08:30,09:50
+Mass Communication,SS2040,BSE-3A,Dr. Sapna,3.0,BS,SE,HSS,Elective,False,CE-2,Thursday,10:00,11:20
+Theory of Automata,CS3005,BCS-5J,Dr. Tahir Ejaz,3.0,BS,CS,CS,Core,False,CE-2,Thursday,11:30,12:50
+Parallel and Distributed Computing,CS3006,BCS-7A,Mr. Danyal Farhat,3.0,BS,CS,CS,Core,True,CE-2,Thursday,13:00,14:20
+Digital Logic Design,EE1005,BCS-3A,Mr. Salman Shoaib,3.0,BS,CS,CS,Core,True,CE-2,Thursday,14:30,15:50
+Technical and Business Writing,SS2007,BSE-5B,,3.0,BS,SE,HSS,Core,False,CE-2,Thursday,16:00,17:20
+Theory of Automata,CS3005,BCS-5K,Dr. Tahir Ejaz,3.0,BS,CS,CS,Core,False,CE-2,Thursday,17:30,18:50
+Calculus and Analytical Geometry,MT1003,BCS-1F,VF,3.0,BS,CS,HSS,Core,False,CE-3,Thursday,08:30,09:50
+Programming Fundamentals,CS1002,BCS-1B,Ms. Arooj Khalil,3.0,BS,CS,CS,Core,False,CE-3,Thursday,10:00,11:20
+Discrete Structures,CS1005,BDS-3B,,3.0,BS,DS,CS,Core,False,CE-3,Thursday,11:30,12:50
+Technical and Business Writing,SS2007,BCS-5B,Ms.Hajra Ikram,3.0,BS,CS,HSS,Core,False,CE-3,Thursday,14:30,15:50
+Mass Communication,SS2040,BCS-3A,Ms. Fatima Zahra,3.0,BS,CS,HSS,Elective,False,CS-1,Thursday,08:30,09:50
+Mass Communication,SS2040,BCS-3B,Ms. Fatima Zahra,3.0,BS,CS,HSS,Elective,False,CS-1,Thursday,10:00,11:20
+Linear Algebra,MT1004,BCS-3F,Dr. Mazhar Hussain,3.0,BS,CS,HSS,Core,False,CS-1,Thursday,11:30,12:50
+Information Security,CS3002,BSE-7A,Dr. Rana Asif Rehman,3.0,BS,SE,CS,Core,False,CS-1,Thursday,13:00,14:20
+Introduction to Public Policy,SS4003,BCS-3A,,3.0,BS,CS,HSS,Elective,False,CS-1,Thursday,16:00,17:20
+Operations Research,MT4031,BCS-7A,Mr. Amjad Ali,3.0,BS,CS,HSS,Supporting Elective,False,CS-8,Thursday,08:30,09:50
+Computer Networks,CS3001,BCS-5J,Mr. Nauman Moazzam,3.0,BS,CS,CS,Core,False,CS-8,Thursday,10:00,11:20
+Software Design and Analysis,CS3004,BCS-5G,Mr. Aamir Raheem,3.0,BS,CS,CS,Core,False,CS-8,Thursday,11:30,12:50
+Technical and Business Writing,SS2007,BCS-5L,Mr. Razm-ul-Zafar,3.0,BS,CS,HSS,Core,False,CS-8,Thursday,14:30,15:50
+Foreign Policy of Pakistan,SS4002,BCS-3B,Mr.Muhammad Ijaz,3.0,BS,CS,HSS,Elective,False,E&M-16,Thursday,08:30,09:50
+Design and Analysis of Algorithms,CS2009,BCS-5E,Mr. Usama Hassan,3.0,BS,CS,CS,Core,True,E&M-16,Thursday,10:00,11:20
+Functional English Lab,SL1012,BDS-1A1,,1.0,BS,DS,HSS,Core,False,English Lab-1,Thursday,08:30,09:50
+Functional English Lab,SL1012,BCS-1K1,,1.0,BS,CS,HSS,Core,False,English Lab-1,Thursday,10:00,11:20
+Functional English Lab,SL1012,BCS-1B1,,1.0,BS,CS,HSS,Core,False,English Lab-1,Thursday,11:30,12:50
+Functional English Lab,SL1012,BCS-1F1,,1.0,BS,CS,HSS,Core,False,English Lab-1,Thursday,14:30,15:50
+Functional English Lab,SL1012,BDS-1A2,,1.0,BS,DS,HSS,Core,False,English Lab-2,Thursday,08:30,09:50
+Functional English Lab,SL1012,BCS-1K2,,1.0,BS,CS,HSS,Core,False,English Lab-2,Thursday,10:00,11:20
+Functional English Lab,SL1012,BCS-1B2,,1.0,BS,CS,HSS,Core,False,English Lab-2,Thursday,11:30,12:50
+Functional English Lab,SL1012,BCS-1F2,,1.0,BS,CS,HSS,Core,False,English Lab-2,Thursday,14:30,15:50
+Functional English Lab,SL1012,BDS-1B1,,1.0,BS,DS,HSS,Core,False,English Lab-3,Thursday,10:00,11:20
+Functional English Lab,SL1012,BCS-1H1,,1.0,BS,CS,HSS,Core,False,English Lab-3,Thursday,14:30,15:50
+Functional English Lab,SL1012,BDS-1B2,,1.0,BS,DS,HSS,Core,False,English Lab-4,Thursday,10:00,11:20
+Functional English Lab,SL1012,BCS-1H2,,1.0,BS,CS,HSS,Core,False,English Lab-4,Thursday,14:30,15:50
+Programming Fundamental Lab,CL1002,BCS-1J1,,1.0,BS,CS,CS,Core,False,Lab(CS-1),Thursday,08:30,11:20
+Programming Fundamental Lab,CL1002,BCS-1J2,,1.0,BS,CS,CS,Core,False,Lab(CS-1),Thursday,08:30,11:20
+Programming Fundamental Lab,CL1002,BSE-1B1,,1.0,BS,SE,CS,Core,False,Lab(CS-1),Thursday,11:30,14:20
+Programming Fundamental Lab,CL1002,BSE-1B2,,1.0,BS,SE,CS,Core,False,Lab(CS-1),Thursday,11:30,14:20
+Intro. to Info and Comm. Technologies,CL1001,BCS-1J,,1.0,BS,CS,CS,Core,False,Lab(CS-1),Thursday,14:30,17:20
+Data Structures Lab,CL2001,BCS-3G1,,1.0,BS,CS,CS,Core,False,Lab(CS-2A),Thursday,08:30,11:20
+Data Structures Lab,CL2001,BCS-3G2,,1.0,BS,CS,CS,Core,False,Lab(CS-2A),Thursday,08:30,11:20
+Data Structures Lab,CL2001,BCS-3B1,,1.0,BS,CS,CS,Core,False,Lab(CS-2A),Thursday,11:30,14:20
+Data Structures Lab,CL2001,BCS-3B2,,1.0,BS,CS,CS,Core,False,Lab(CS-2A),Thursday,11:30,14:20
+Intro. to Info and Comm. Technologies,CL1001,BSE-1B,Ms. Mamoona Majid,1.0,BS,SE,CS,Core,False,Lab(CS-2A),Thursday,14:30,17:20
+Data Structures Lab,CL2001,BCS-3H1,,1.0,BS,CS,CS,Core,False,Lab(CS-2B),Thursday,08:30,11:20
+Data Structures Lab,CL2001,BCS-3H2,,1.0,BS,CS,CS,Core,False,Lab(CS-2B),Thursday,08:30,11:20
+Data Structures Lab,CL2001,BCS-3E1,,1.0,BS,CS,CS,Core,False,Lab(CS-2B),Thursday,14:30,17:20
+Data Structures Lab,CL2001,BCS-3E2,,1.0,BS,CS,CS,Core,False,Lab(CS-2B),Thursday,14:30,17:20
+Data Structures Lab,CL2001,BDS-3A1,,1.0,BS,DS,CS,Core,False,Lab(CS-3),Thursday,08:30,11:20
+Data Structures Lab,CL2001,BDS-3A2,,1.0,BS,DS,CS,Core,False,Lab(CS-3),Thursday,08:30,11:20
+Comp. Organization and Assembly Lang. Lab,EL2003,BCS-3C1,,1.0,BS,CS,CS,Core,False,Lab(CS-3),Thursday,11:30,14:20
+Comp. Organization and Assembly Lang. Lab,EL2003,BCS-3C2,,1.0,BS,CS,CS,Core,False,Lab(CS-3),Thursday,11:30,14:20
+Comp. Organization and Assembly Lang. Lab,EL2003,BCS-3F1,,1.0,BS,CS,CS,Core,False,Lab(CS-3),Thursday,14:30,17:20
+Comp. Organization and Assembly Lang. Lab,EL2003,BCS-3F2,,1.0,BS,CS,CS,Core,False,Lab(CS-3),Thursday,14:30,17:20
+Comp. Organization and Assembly Lang. Lab,EL2003,BDS-3B1,,1.0,BS,DS,CS,Core,False,Lab(CS-4),Thursday,08:30,11:20
+Comp. Organization and Assembly Lang. Lab,EL2003,BDS-3B2,,1.0,BS,DS,CS,Core,False,Lab(CS-4),Thursday,08:30,11:20
+Comp. Organization and Assembly Lang. Lab,EL2003,BCS-3D1,,1.0,BS,CS,CS,Core,False,Lab(CS-4),Thursday,11:30,14:20
+Comp. Organization and Assembly Lang. Lab,EL2003,BCS-3D2,,1.0,BS,CS,CS,Core,False,Lab(CS-4),Thursday,11:30,14:20
+Object Oriented Programming Lab,CL1004,BSR-3A1,,1.0,BS,R,CS,Core,True,Lab(CS-4),Thursday,14:30,17:20
+Object Oriented Programming Lab,CL1004,BSR-3A2,,1.0,BS,R,CS,Core,True,Lab(CS-4),Thursday,14:30,17:20
+Data Structures Lab,CL2001,BSR-3A1,,1.0,BS,R,CS,Core,False,Lab(CS-6),Thursday,08:30,11:20
+Data Structures Lab,CL2001,BSR-3A2,,1.0,BS,R,CS,Core,False,Lab(CS-6),Thursday,08:30,11:20
+Programming Fundamental Lab,CL1002,BCS-1A1,,1.0,BS,CS,CS,Core,False,Lab(CS-6),Thursday,11:30,14:20
+Programming Fundamental Lab,CL1002,BCS-1A2,,1.0,BS,CS,CS,Core,False,Lab(CS-6),Thursday,11:30,14:20
+Programming Fundamental Lab,CL1002,BCS-1G1,,1.0,BS,CS,CS,Core,False,Lab(CS-6),Thursday,14:30,17:20
+Programming Fundamental Lab,CL1002,BCS-1G2,,1.0,BS,CS,CS,Core,False,Lab(CS-6),Thursday,14:30,17:20
+Intro. to Info and Comm. Technologies,CL1001,BDS-1C,Ms. Saman Ashraf,1.0,BS,DS,CS,Core,False,Lab(CS-8),Thursday,08:30,11:20
+Data Structures Lab,CL2001,BCS-3C1,,1.0,BS,CS,CS,Core,False,Lab(CS-9),Thursday,08:30,11:20
+Data Structures Lab,CL2001,BCS-3C2,,1.0,BS,CS,CS,Core,False,Lab(CS-9),Thursday,08:30,11:20
+Calculus and Analytical Geometry,MT1003,BSE-1A,Ms. Aisha Rashid,3.0,BS,SE,HSS,Core,False,Seminar Hall,Friday,10:00,11:20
+Technical and Business Writing,SS2007,BSE-5C,,3.0,BS,SE,HSS,Core,False,Seminar Hall,Friday,16:00,17:20
+Data Mining and Analytics,CS5062,MCS-1A,Dr. Zareen Alamgir,3.0,MS,CS,CS,Elective,False,CS-2,Friday,08:30,11:20
+Computer Networks,CS3001,BSE-7A,Dr. Muhammad Irteza,3.0,BS,SE,CS,Core,True,CS-2,Friday,11:30,12:50
+Professional Practices,CS4001,BCS-7A,Mr. Waqas Manzoor,3.0,BS,CS,CS,Core,False,CS-2,Friday,14:30,15:50
+Research Methodology,CS5001,MSP-1A,,3.0,MS,SPM,CS,Core,False,CS-2,Friday,17:30,20:20
+Research Methodology,CS5001,MSP-1A,,3.0,MS,SPM,CS,Core,False,CS-2,Friday,17:30,20:20
+Research Methodology,CS5001,MSP-1A,Dr. Asif Gilani,3.0,MS,SPM,CS,Core,False,CS-2,Friday,17:30,20:20
+Technical and Business Writing,SS2007,BCS-5D,Ms.Gulshan Saeed,3.0,BS,CS,HSS,Core,False,CS-3,Friday,08:30,09:50
+Professional Practices,CS4001,BSE-7B,Mr. Uzair Naqvi,3.0,BS,SE,CS,Core,False,CS-3,Friday,10:00,12:50
+Discrete Structures,CS1005,BCS-3J,Dr. Misbah Irshad,3.0,BS,CS,CS,Core,False,CS-3,Friday,14:30,15:50
+Fundamentals of Software Engineering,CS2004,BDS-5A,,3.0,BS,DS,CS,Core,True,CS-4,Friday,08:30,09:50
+Design and Analysis of Algorithms,CS2009,BCS-5D,Ms. Abeeda Akram,3.0,BS,CS,CS,Core,True,CS-4,Friday,10:00,11:20
+Design and Analysis of Algorithms,CS2009,BCS-5C,Ms. Abeeda Akram,3.0,BS,CS,CS,Core,True,CS-4,Friday,11:30,12:50
+Time Series Prediction,CS5118,MDS-3A,Dr. Hajra Waheed,3.0,MS,DS,DS,Elective,False,CS-4,Friday,14:30,17:20
+Operations Research,MT4031,BCS-7A,Mr. Amjad Ali,3.0,BS,CS,HSS,Supporting Elective,False,CS-5,Friday,08:30,09:50
+Programming Fundamentals,CS1002,BCS-1K,Ms. Maham Naeem,3.0,BS,CS,CS,Core,False,CS-5,Friday,10:00,11:20
+Operations Research,MT4031,BSE-5B,Dr. Hakeem Ur Rehman,3.0,BS,SE,HSS,Supporting Elective,False,CS-5,Friday,11:30,12:50
+Probability and Statistics,MT2005,BDS-3B,Ms. Kanwal Saleem,3.0,BS,DS,HSS,Core,False,CS-5,Friday,14:30,15:50
+Design and Analysis of Algorithms,CS2009,BCS-5B,,3.0,BS,CS,CS,Core,True,CS-5,Friday,16:00,17:20
+Software for Mobile Devices,CS4039,BSE-7A,Mr. Mughees Musaddaq,3.0,BS,SE,CS,Elective,False,CS-6,Friday,08:30,09:50
+Software for Mobile Devices,CS4039,BCS-7A,Mr. Mughees Musaddaq,3.0,BS,CS,CS,Elective,False,CS-6,Friday,10:00,11:20
+Fundamentals of Big Data Analytics,DS2004,BDS-5A,Ms. Mamoona Akbar,3.0,BS,DS,DS,Core,True,CS-6,Friday,14:30,15:50
+Discrete Structures,CS1005,BCS-3H,Dr. Misbah Irshad,3.0,BS,CS,CS,Core,False,CS-6,Friday,16:00,17:20
+MS Practicum - II,CS5088,MSP-3A,Dr. Ghulam Ahmad Farrukh,3.0,MS,SPM,CS,Core,False,CS-7,Friday,08:30,11:20
+Numerical Computing,CS2008,BCS-5M,Dr. Iffat Fayyaz,3.0,BS,CS,CS,Core,False,CS-7,Friday,11:30,12:50
+Web Programming,CS4032,BCS-7B,Mr. Saifullah Tanvir,3.0,BS,CS,CS,Elective,False,CS-7,Friday,14:30,15:50
+Numerical Computing,CS2008,BCS-5F,Ms. Iqra Yaqoot,3.0,BS,CS,CS,Core,False,CS-7,Friday,16:00,17:20
+Object Oriented Programming,CS1004,BCS-3B,Ms. Hina Iqbal,3.0,BS,CS,CS,Core,True,CS-9,Friday,08:30,09:50
+Object Oriented Programming,CS1004,BCS-3A,Ms. Hina Iqbal,3.0,BS,CS,CS,Core,True,CS-9,Friday,10:00,11:20
+Data Warehousing and Business Intelligence,DS3003,BDS-5B,,3.0,BS,DS,DS,Core,False,CS-9,Friday,11:30,12:50
+Programming Fundamentals,CS1002,BCS-1H,Ms. Hina Iqbal,3.0,BS,CS,CS,Core,False,CS-9,Friday,14:30,15:50
+Calculus and Analytical Geometry,MT1003,BSE-1C,VF,3.0,BS,SE,HSS,Core,False,CS-9,Friday,16:00,17:20
+Programming Fundamentals,CS1002,BDS-1B,Dr. Mubasher Baig,3.0,BS,DS,CS,Core,False,CS-10,Friday,08:30,09:50
+Programming Fundamentals,CS1002,BDS-1C,Dr. Mubasher Baig,3.0,BS,DS,CS,Core,False,CS-10,Friday,10:00,12:50
+Bioinformatics,CS4054,BCS-9A,Dr. Hammad Naveed,3.0,BS,CS,CS,Elective,True,CS-10,Friday,14:30,15:50
+Digital Logic Design,EE1005,BDS-3A,Ms. Maimoona Akram,3.0,BS,DS,CS,Core,True,CS-10,Friday,16:00,17:20
+Ideology and Constitution of Pakistan,SS1013,BCS-1A,Mr.Muhammad Ijaz,2.0,BS,CS,HSS,Core,False,CS-11,Friday,10:30,12:20
+Software Design and Analysis,CS3004,BCS-5A,Dr. Ali Afzal Malik,3.0,BS,CS,CS,Core,False,CS-15,Friday,10:00,11:20
+Professional Practices,CS4001,BCS-7E,Ms. Mehwish Mumtaz,3.0,BS,CS,CS,Core,False,CS-15,Friday,11:30,12:50
+Linear Algebra,MT1004,BSR-3B,VF,3.0,BS,R,HSS,Core,False,CS-15,Friday,16:00,17:20
+Software Design and Analysis,CS3004,BCS-5B,Dr. Ali Afzal Malik,3.0,BS,CS,CS,Core,False,CS-16,Friday,08:30,09:50
+Software Design and Analysis,CS3004,BCS-5C,Ms. Lehmia Kiran,3.0,BS,CS,CS,Core,False,CS-16,Friday,10:00,11:20
+Software Design and Analysis,CS3004,BCS-5D,Ms. Lehmia Kiran,3.0,BS,CS,CS,Core,False,CS-16,Friday,11:30,12:50
+Entrepreneurship,MG4011,BCS-3B,Dr. Shahrman Khattak,3.0,BS,CS,MG,Elective,False,CS-16,Friday,16:00,17:20
+Entrepreneurship,MG4011,BCS-3A,Dr. Shahrman Khattak,3.0,BS,CS,MG,Elective,False,CS-16,Friday,17:30,18:50
+Discrete Structures,CS1005,BDS-3A,Dr. Saeeda Zia,3.0,BS,DS,CS,Core,False,Lib,Friday,08:30,09:50
+Technical and Business Writing,SS2007,BCS-5F,Ms.Gulshan Saeed,3.0,BS,CS,HSS,Core,False,Lib,Friday,10:00,11:20
+Discrete Structures,CS1005,BCS-3A,,3.0,BS,CS,CS,Core,False,Lib,Friday,11:30,12:50
+Ideology and Constitution of Pakistan,SS1013,BSE-1A,,2.0,BS,SE,HSS,Core,False,Lib,Friday,14:30,16:20
+Ideology and Constitution of Pakistan,SS1013,BDS-1A,,2.0,BS,DS,HSS,Core,False,E&M-1,Friday,08:30,10:20
+Ideology and Constitution of Pakistan,SS1013,BCS-1D,Mr.Muhammad Ashraf,2.0,BS,CS,HSS,Core,False,E&M-1,Friday,10:30,12:20
+Ideology and Constitution of Pakistan,SS1013,BCS-1E,Mr.Muhammad Ashraf,2.0,BS,CS,HSS,Core,False,E&M-1,Friday,14:30,16:20
+Ideology and Constitution of Pakistan,SS1013,BCS-1C,Ms.Bushra Jabeen,2.0,BS,CS,HSS,Core,False,E&M-2,Friday,08:30,10:20
+Ideology and Constitution of Pakistan,SS1013,BCS-1B,Ms.Bushra Jabeen,2.0,BS,CS,HSS,Core,False,E&M-2,Friday,10:30,12:20
+Islamic Studies/Ethics,SS1002,BCS-1K,,2.0,BS,CS,HSS,Core,False,E&M-2,Friday,14:30,16:20
+Parallel and Distributed Computing,CS3006,BCS-9A,,3.0,BS,CS,CS,Core,False,E&M-2,Friday,17:30,18:50
+Ideology and Constitution of Pakistan,SS1013,BSE-1B,,2.0,BS,SE,HSS,Core,False,E&M-3,Friday,08:30,10:20
+Ideology and Constitution of Pakistan,SS1013,BDS-1B,,2.0,BS,DS,HSS,Core,False,E&M-4,Friday,10:30,12:20
+Applied Physics,NS1001,BSE-1B,Mr. Usman Sajid,3.0,BS,SE,NS,Core,False,E&M-4,Friday,16:00,17:20
+Applied Physics,NS1001,BSE-1A,Mr. Usman Sajid,3.0,BS,SE,NS,Core,False,E&M-4,Friday,17:30,18:50
+Islamic Studies/Ethics,SS1002,BCS-1F,,2.0,BS,CS,HSS,Core,False,E&M-5,Friday,08:30,10:20
+Islamic Studies/Ethics,SS1002,BCS-1G,,2.0,BS,CS,HSS,Core,False,E&M-5,Friday,10:30,12:20
+Ideology and Constitution of Pakistan,SS1013,BDS-1C,,2.0,BS,DS,HSS,Core,False,E&M-5,Friday,14:30,16:20
+Islamic Studies/Ethics,SS1002,BCS-1H,,2.0,BS,CS,HSS,Core,False,E&M-11,Friday,08:30,10:20
+Islamic Studies/Ethics,SS1002,BCS-1J,,2.0,BS,CS,HSS,Core,False,E&M-11,Friday,10:30,12:20
+Object Oriented Programming,CS1004,BDS-3A,Ms. Mamoona Majid,3.0,BS,DS,CS,Core,True,CE-1,Friday,08:30,09:50
+Functional English,SS1012,BSE-1B,Ms. Fasiha Sherwany,2.0,BS,SE,HSS,Core,False,CE-1,Friday,10:30,12:20
+Digital Logic Design,EE1005,BCS-3A,Mr. Salman Shoaib,3.0,BS,CS,CS,Core,True,CE-1,Friday,14:30,15:50
+Fundamental of Software Project Management,SE4003,BSE-7B,,3.0,BS,SE,SE,Core,False,CE-2,Friday,08:30,09:50
+Fundamental of Software Project Management,SE4003,BSE-7A,,3.0,BS,SE,SE,Core,False,CE-2,Friday,10:00,11:20
+Internet of Things,IO4041,BCS-9A,Mr. Ahmad Raza,3.0,BS,CS,CS,Elective,True,CE-2,Friday,16:00,17:20
+Technical and Business Writing,SS2007,BCS-5H,Ms.Irum Zahoor,3.0,BS,CS,HSS,Core,False,CE-3,Friday,08:30,09:50
+Technical and Business Writing,SS2007,BCS-5J,Ms.Irum Zahoor,3.0,BS,CS,HSS,Core,False,CE-3,Friday,10:00,11:20
+Professional Practices,CS4001,BCS-7F,Mr. Zummar Saad,3.0,BS,CS,CS,Core,False,E&M-16,Friday,14:30,15:50
+Functional English Lab,SL1012,BCS-1J1,,1.0,BS,CS,HSS,Core,False,English Lab-3,Friday,14:30,15:50
+Functional English Lab,SL1012,BCS-1J2,,1.0,BS,CS,HSS,Core,False,English Lab-4,Friday,14:30,15:50
+Data Analysis and Visualization Lab,DL3001,BDS-5B1,,1.0,BS,DS,DS,Core,False,Lab(CS-1),Friday,08:30,11:20
+Data Analysis and Visualization Lab,DL3001,BDS-5B2,,1.0,BS,DS,DS,Core,False,Lab(CS-1),Friday,08:30,11:20
+Comp. Organization and Assembly Lang. Lab,EL2003,BCS-3A1,,1.0,BS,CS,CS,Core,False,Lab(CS-1),Friday,14:30,17:20
+Comp. Organization and Assembly Lang. Lab,EL2003,BCS-3A2,,1.0,BS,CS,CS,Core,False,Lab(CS-1),Friday,14:30,17:20
+Database Systems Lab,CL2005,BCS-5B1,,1.0,BS,CS,CS,Core,True,Lab(CS-2A),Friday,08:30,11:20
+Database Systems Lab,CL2005,BCS-5B2,,1.0,BS,CS,CS,Core,True,Lab(CS-2A),Friday,08:30,11:20
+Database Systems Lab,CL2005,BCS-5A1,,1.0,BS,CS,CS,Core,True,Lab(CS-2A),Friday,14:30,17:20
+Database Systems Lab,CL2005,BCS-5A2,,1.0,BS,CS,CS,Core,True,Lab(CS-2A),Friday,14:30,17:20
+Comp. Organization and Assembly Lang. Lab,EL2003,BCS-3G1,,1.0,BS,CS,CS,Core,False,Lab(CS-2B),Friday,08:30,11:20
+Comp. Organization and Assembly Lang. Lab,EL2003,BCS-3G2,,1.0,BS,CS,CS,Core,False,Lab(CS-2B),Friday,08:30,11:20
+Artificial Intelligence Lab,AL2002,BCS-7A1,,1.0,BS,CS,CS,Core,True,Lab(CS-2B),Friday,14:30,17:20
+Artificial Intelligence Lab,AL2002,BCS-7A2,,1.0,BS,CS,CS,Core,True,Lab(CS-2B),Friday,14:30,17:20
+Comp. Organization and Assembly Lang. Lab,EL2003,BCS-3H1,,1.0,BS,CS,CS,Core,False,Lab(CS-3),Friday,08:30,11:20
+Comp. Organization and Assembly Lang. Lab,EL2003,BCS-3H2,,1.0,BS,CS,CS,Core,False,Lab(CS-3),Friday,08:30,11:20
+Computer Networks Lab,CL3001,BSE-7A1,,1.0,BS,SE,CS,Core,True,Lab(CS-3),Friday,14:30,17:20
+Computer Networks Lab,CL3001,BSE-7A2,,1.0,BS,SE,CS,Core,True,Lab(CS-3),Friday,14:30,17:20
+Data Structures Lab,CL2001,BCS-3A1,,1.0,BS,CS,CS,Core,False,Lab(CS-4),Friday,08:30,11:20
+Data Structures Lab,CL2001,BCS-3A2,,1.0,BS,CS,CS,Core,False,Lab(CS-4),Friday,08:30,11:20
+Intro. to Info and Comm. Technologies,CL1001,BDS-1B,Ms. Saman Ashraf,1.0,BS,DS,CS,Core,False,Lab(CS-4),Friday,14:30,17:20
+Object Oriented Programming Lab,CL1004,BCS-3B1,,1.0,BS,CS,CS,Core,True,Lab(CS-6),Friday,10:00,12:50
+Object Oriented Programming Lab,CL1004,BCS-3B2,,1.0,BS,CS,CS,Core,True,Lab(CS-6),Friday,10:00,12:50
+Intro. to Info and Comm. Technologies,CL1001,BCS-1B,Ms. Maham Naeem,1.0,BS,CS,CS,Core,False,Lab(CS-6),Friday,14:30,17:20
+Data Analysis and Visualization Lab,DL3001,BDS-5A1,,1.0,BS,DS,DS,Core,False,Lab(CS-8),Friday,10:00,12:50
+Data Analysis and Visualization Lab,DL3001,BDS-5A2,,1.0,BS,DS,DS,Core,False,Lab(CS-8),Friday,10:00,12:50
+Object Oriented Programming Lab,CL1004,BCS-3A1,,1.0,BS,CS,CS,Core,True,Lab(CS-8),Friday,14:30,17:20
+Object Oriented Programming Lab,CL1004,BCS-3A2,,1.0,BS,CS,CS,Core,True,Lab(CS-8),Friday,14:30,17:20
+Programming Fundamental Lab,CL1002,BCS-1E1,,1.0,BS,CS,CS,Core,False,Lab(CS-9),Friday,10:00,12:50
+Programming Fundamental Lab,CL1002,BCS-1E2,,1.0,BS,CS,CS,Core,False,Lab(CS-9),Friday,10:00,12:50
+Comp. Organization and Assembly Lang. Lab,EL2003,BCS-3E1,,1.0,BS,CS,CS,Core,False,Lab(CS-9),Friday,14:30,17:20
+Comp. Organization and Assembly Lang. Lab,EL2003,BCS-3E2,,1.0,BS,CS,CS,Core,False,Lab(CS-9),Friday,14:30,17:20
+Digital Logic Design Lab,EL1005,BDS-3A1,,1.0,BS,DS,CS,Core,True,Physics Lab,Friday,10:00,12:50
+Digital Logic Design Lab,EL1005,BCS-3A1,,1.0,BS,CS,CS,Core,True,Physics Lab,Friday,17:30,20:20
+Digital Logic Design Lab,EL1005,BDS-3A2,,1.0,BS,DS,CS,Core,True,Micro Lab,Friday,10:00,12:50
+Digital Logic Design Lab,EL1005,BCS-3A2,,1.0,BS,CS,CS,Core,True,Micro Lab,Friday,17:30,20:20
+Numerical Computing,CS2008,BCS-5C,Dr. Syed Tauseef Saeed,3.0,BS,CS,CS,Core,False,CS-2,Saturday,10:00,11:20
+Theory of Automata,CS3005,BCS-5M,Mr. Amjad Ali,3.0,BS,CS,CS,Core,False,CS-3,Saturday,08:30,09:50
+Information Security,CS3002,BDS-7B,Mr. Ahmad  Shah,3.0,BS,DS,CS,Core,False,CS-3,Saturday,10:00,12:50
+Information Security,CS3002,BCS-7F,Mr. Ahmad Shah,3.0,BS,CS,CS,Core,False,CS-3,Saturday,14:30,17:20
+Fundamentals of Software Engineering,CS2004,BDS-5A,,3.0,BS,DS,CS,Core,True,CS-4,Saturday,08:30,09:50
+Software for Mobile Devices,CS4039,BSE-7A,Mr. Mughees Musaddaq,3.0,BS,SE,CS,Elective,False,CS-4,Saturday,10:00,11:20
+Software for Mobile Devices,CS4039,BCS-7A,Mr. Mughees Musaddaq,3.0,BS,CS,CS,Elective,False,CS-4,Saturday,11:30,12:50
+Applied Programming,CS4002,MCS-1A,Mr. Aftab Alam,,MS,CS,CS,Core,False,CS-5,Saturday,08:30,11:20
+Advanced Programming,CS4036,BCS-7A,,3.0,BS,CS,CS,Elective,False,CS-6,Saturday,08:30,11:20
+Fundamental of Software Project Management,SE4003,BSE-7A,,3.0,BS,SE,SE,Core,False,CS-7,Saturday,08:30,09:50
+Fundamental of Software Project Management,SE4003,BSE-7B,,3.0,BS,SE,SE,Core,False,CS-7,Saturday,10:00,11:20
+Differential Equations,MT1006,BCS-3A,,3.0,BS,CS,HSS,Core,True,CS-1,Saturday,08:30,09:50
+Artificial Intelligence Lab,AL2002,BCS-7B1,,1.0,BS,CS,CS,Core,True,Lab(CS-1),Saturday,08:30,11:20
+Artificial Intelligence Lab,AL2002,BCS-7B2,,1.0,BS,CS,CS,Core,True,Lab(CS-1),Saturday,08:30,11:20
+Fundamentals of Big Data Analytics Lab,DL2004,BDS-5A1,,1.0,BS,DS,DS,Core,True,Lab(CS-1),Saturday,11:30,14:20
+Fundamentals of Big Data Analytics Lab,DL2004,BDS-5A2,,1.0,BS,DS,DS,Core,True,Lab(CS-1),Saturday,11:30,14:20
+Database Systems Lab,CL2005,BDS-5A1,,1.0,BS,DS,CS,Core,True,Lab(CS-1),Saturday,14:30,17:20
+Database Systems Lab,CL2005,BDS-5A2,,1.0,BS,DS,CS,Core,True,Lab(CS-1),Saturday,14:30,17:20
+Software Construction Development Lab,SL3001,BSE-5A1,,1.0,BS,SE,SE,Core,False,Lab(CS-2A),Saturday,08:30,11:20
+Software Construction Development Lab,SL3001,BSE-5A2,,1.0,BS,SE,SE,Core,False,Lab(CS-2A),Saturday,08:30,11:20
+Operating Systems Lab,CL2006,BSE-5A1,,1.0,BS,SE,CS,Core,False,Lab(CS-2A),Saturday,11:30,14:20
+Operating Systems Lab,CL2006,BSE-5A2,,1.0,BS,SE,CS,Core,False,Lab(CS-2A),Saturday,11:30,14:20
+Database Systems Lab,CL2005,BSE-5A1,,1.0,BS,SE,CS,Core,True,Lab(CS-2A),Saturday,14:30,17:20
+Database Systems Lab,CL2005,BSE-5A2,,1.0,BS,SE,CS,Core,True,Lab(CS-2A),Saturday,14:30,17:20
+Software Construction Development Lab,SL3001,BSE-5B1,,1.0,BS,SE,SE,Core,False,Lab(CS-2B),Saturday,08:30,11:20
+Software Construction Development Lab,SL3001,BSE-5B2,,1.0,BS,SE,SE,Core,False,Lab(CS-2B),Saturday,08:30,11:20
+Operating Systems Lab,CL2006,BSE-5B1,,1.0,BS,SE,CS,Core,False,Lab(CS-2B),Saturday,11:30,14:20
+Operating Systems Lab,CL2006,BSE-5B2,,1.0,BS,SE,CS,Core,False,Lab(CS-2B),Saturday,11:30,14:20
+Data Structures Lab,CL2001,BSR-3B1,,1.0,BS,R,CS,Core,False,Lab(CS-3),Saturday,08:30,11:20
+Data Structures Lab,CL2001,BSR-3B2,,1.0,BS,R,CS,Core,False,Lab(CS-3),Saturday,08:30,11:20
+Database Systems Lab,CL2005,BCS-5C1,,1.0,BS,CS,CS,Core,True,Lab(CS-3),Saturday,11:30,14:20
+Database Systems Lab,CL2005,BCS-5C2,,1.0,BS,CS,CS,Core,True,Lab(CS-3),Saturday,11:30,14:20
+Operating Systems Lab,CL2006,BCS-5B1,,1.0,BS,CS,CS,Core,True,Lab(CS-4),Saturday,08:30,11:20
+Operating Systems Lab,CL2006,BCS-5B2,,1.0,BS,CS,CS,Core,True,Lab(CS-4),Saturday,08:30,11:20
+Operating Systems Lab,CL2006,BCS-5A1,,1.0,BS,CS,CS,Core,True,Lab(CS-4),Saturday,11:30,14:20
+Operating Systems Lab,CL2006,BCS-5A2,,1.0,BS,CS,CS,Core,True,Lab(CS-4),Saturday,11:30,14:20
+Object Oriented Programming Lab,CL1004,BDS-3A1,,1.0,BS,DS,CS,Core,True,Lab(CS-6),Saturday,08:30,11:20
+Object Oriented Programming Lab,CL1004,BDS-3A2,,1.0,BS,DS,CS,Core,True,Lab(CS-6),Saturday,08:30,11:20
+Computer Networks Lab,CL3001,BSR-5A1,,3.0,BS,R,CS,Core,False,Lab(CS-6),Saturday,11:30,14:20
+Computer Networks Lab,CL3001,BSR-5A2,,3.0,BS,R,CS,Core,False,Lab(CS-6),Saturday,11:30,14:20
+Object Oriented Programming Lab,CL1004,BSE-3A1,,1.0,BS,SE,CS,Core,True,Lab(CS-6),Saturday,14:30,17:20
+Object Oriented Programming Lab,CL1004,BSE-3A2,,1.0,BS,SE,CS,Core,True,Lab(CS-6),Saturday,14:30,17:20
+Computer Networks Lab,CL3001,BCS-5A1,,1.0,BS,CS,CS,Core,False,Lab(CS-8),Saturday,08:30,11:20
+Computer Networks Lab,CL3001,BCS-5A2,,1.0,BS,CS,CS,Core,False,Lab(CS-8),Saturday,08:30,11:20
+Computer Networks Lab,CL3001,BCS-5B1,,1.0,BS,CS,CS,Core,False,Lab(CS-8),Saturday,11:30,14:20
+Computer Networks Lab,CL3001,BCS-5B2,,1.0,BS,CS,CS,Core,False,Lab(CS-8),Saturday,11:30,14:20
+Computer Networks Lab,CL3001,BCS-5C1,,1.0,BS,CS,CS,Core,False,Lab(CS-8),Saturday,14:30,17:20
+Computer Networks Lab,CL3001,BCS-5C2,,1.0,BS,CS,CS,Core,False,Lab(CS-8),Saturday,14:30,17:20
+Computer Networks Lab,CL3001,BDS-7A1,,1.0,BS,DS,CS,Core,False,Lab(CS-9),Saturday,08:30,11:20
+Computer Networks Lab,CL3001,BDS-7A2,,1.0,BS,DS,CS,Core,False,Lab(CS-9),Saturday,08:30,11:20
+Computer Networks Lab,CL3001,BDS-7B1,,1.0,BS,DS,CS,Core,False,Lab(CS-9),Saturday,11:30,14:20
+Data Analysis and Visualization Lab,DL3001,BDS-5D2,,1.0,BS,DS,DS,Core,False,Lab(CS-4),Monday,14:30,17:20
+Computer Networks Lab,CL3001,BDS-7B2,,1.0,BS,DS,CS,Core,False,Lab(CS-9),Saturday,11:30,14:20
